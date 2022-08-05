@@ -1,44 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-@include('_partials._head')
-</head>
-
-<body>
-
-
-
-  <!-- ======= Header ======= -->
-  <header id="header" class="header fixed-top d-flex align-items-center">
-   @include('_partials._header')
-  </header><!-- End Header -->
-
-
-
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="hero d-flex align-items-center section-bg">
-  @include('_partials._hero')
-  </section><!-- End Hero Section -->
-
-
-
-    @yield('content')
-    
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer" class="footer">
-    @include('_partials._footer')
-  </footer><!-- End Footer -->
-  <!-- End Footer -->
-
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <div id="preloader"></div>
-
-  <!-- Vendor JS Files -->
-  @include('_partials._script')
-
-</body>
-
+<html lang="en-US">
+   <head>
+    @include('_partials._head')
+   </head>
+   <body class="size-1140">
+  	  <!-- PREMIUM FEATURES BUTTON -->
+  	  <a target="_blank" class="hide-s" href="../template/onepage-premium-template/" style="position:fixed;top:130px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
+      <!-- TOP NAV WITH LOGO -->
+      <header>
+        @include('_partials._header')
+      </header>  
+        @yield('content')
+      <!-- FOOTER -->
+      <footer>
+        @include('_partials._footer')
+      </footer>
+        @include('_partials._script')
+   </body>
 </html>
