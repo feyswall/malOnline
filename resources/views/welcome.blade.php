@@ -245,9 +245,8 @@
         <div id="services">
             <div class="">
                 <h2 class="section-title">What we do</h2>
-                <div class="margin">
-                    <div class="s-12 m-6 l-4 margin-bottom">
-
+                <div class="margin" style="margin: auto">
+                    <div class="s-12 m-6 l-3 margin-bottom" style="margin: 20px;">
                         <div class="service-text">
                             <img src="assets/img/umeme/one.jpg" alt="">
                             <h3>We create</h3>
@@ -255,7 +254,7 @@
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
-                    <div class="s-12 m-6 l-4 margin-bottom">
+                    <div class="s-12 m-6 l-3 margin-bottom" style="margin: 20px;">
 
                         <div class="service-text">
                             <h3>We look to the future</h3>
@@ -264,7 +263,7 @@
                             <img src="assets/img/umeme/two.jpg" alt="">
                         </div>
                     </div>
-                    <div class="s-12 m-12 l-4 margin-bottom">
+                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
 
                         <div class="service-text">
                             <img src="assets/img/umeme/three.jpg" alt="">
@@ -293,10 +292,10 @@
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
                             <img src="{{ asset('assets/img/service/111.jpg') }}" alt="">
                         </div>
-                         <div class="s-12 m-12 l-7 margin-bottom right-align">
+                        <div class="s-12 m-12 l-7 margin-bottom right-align">
                             <img src="{{ asset('assets/img/service/make.jpg') }}" alt="">
                         </div>
-                         <div class="s-12 m-12 l-7 margin-bottom right-align">
+                        <div class="s-12 m-12 l-7 margin-bottom right-align">
                             <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="">
                         </div>
                     </div>
