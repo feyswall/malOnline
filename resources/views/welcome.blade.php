@@ -1,4 +1,6 @@
 @extends('layouts.system')
+
+
 @section('content')
     <section>
         <!-- CAROUSEL -->
@@ -34,7 +36,7 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2 class="">Fully Responsive Components</h2>
+                            <h2>Fully Responsive Components</h2>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna.</p>
                         </div>
@@ -63,10 +65,10 @@
         <!-- FIRST BLOCK -->
         <div id="first-block">
             <div class="line">
-                <h1 class="text-left-md-2">Amazing Responsive Business Template</h1>
-                <p class="text-left-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                    laoreet.</p>
-                <div class="s-12 m-4 l-2 center text-right-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
+                <h1>Amazing Responsive Business Template</h1>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                    laoreet dolore magna aliquam erat volutpat.</p>
+                <div class="s-12 m-4 l-2 center"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
         <!-- FEATURES -->
@@ -107,7 +109,8 @@
             </div>
             <article class="s-12 m-12 l-6">
                 <h2 class="text-down-lg">We are<br> Web Design<br> Heroes</h2>
-                <p class="text-down-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                <p class="text-down-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    euismod tincidunt ut
                     laoreet
                     dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
                     suscipit
@@ -131,25 +134,25 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por1.jpg" alt="" class="photo-right">
+                                        </div><img src="assets/img/por1.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por4.jpg" alt="" class="photo-down">
+                                        </div><img src="assets/img/por4.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/AC6.jpg" alt="" class="photo-down">
+                                        </div><img src="assets/img/AC6.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por3.jpg" alt="" class="photo-left">
+                                        </div><img src="assets/img/por3.jpg" alt="">
                                     </a></div>
                             </div>
                         </div>
@@ -240,31 +243,61 @@
         </div>
         <!-- SERVICES -->
         <div id="services">
-            <div class="line">
+            <div class="">
                 <h2 class="section-title">What we do</h2>
                 <div class="margin">
                     <div class="s-12 m-6 l-4 margin-bottom">
-                        <i class="icon-vector"></i>
+
                         <div class="service-text">
+                            <img src="assets/img/umeme/one.jpg" alt="">
                             <h3>We create</h3>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
                     <div class="s-12 m-6 l-4 margin-bottom">
-                        <i class="icon-eye"></i>
+
                         <div class="service-text">
                             <h3>We look to the future</h3>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                            <img src="assets/img/umeme/two.jpg" alt="">
                         </div>
                     </div>
                     <div class="s-12 m-12 l-4 margin-bottom">
-                        <i class="icon-random"></i>
+
                         <div class="service-text">
+                            <img src="assets/img/umeme/three.jpg" alt="">
                             <h3>We find a solution</h3>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- Our Owesome Service -->
+        <div id="contact" class="example1">
+            <div class="">
+                <h2 class="section-title">Our Owesome Servicea</h2>
+
+                <div class="margin">
+                    <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
+                        <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="">
+                    </div>
+                    <div class="s-12 m-12 l-4">
+                        <h3>Example contact form (do not use)</h3>
+                        <div class="s-12 m-12 l-7 margin-bottom right-align">
+                            <img src="{{ asset('assets/img/service/111.jpg') }}" alt="">
+                        </div>
+                         <div class="s-12 m-12 l-7 margin-bottom right-align">
+                            <img src="{{ asset('assets/img/service/make.jpg') }}" alt="">
+                        </div>
+                         <div class="s-12 m-12 l-7 margin-bottom right-align">
+                            <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="">
                         </div>
                     </div>
                 </div>
@@ -373,5 +406,5 @@
 @endsection
 
 @section('script')
-<script src="{{ asset('assets/animate/code.js') }}""></script>
+    <script src="{{ asset('assets/animate/code.js') }}""></script>
 @endsection
