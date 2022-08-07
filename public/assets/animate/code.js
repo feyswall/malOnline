@@ -16,3 +16,33 @@
             direction: 'left',
             distance: '200px',
         });
+
+        $('.text-left-md-2').Oppear({
+            delay: 1000,
+            direction: 'left',
+            distance: '200px',
+        });
+
+        $('.text-right-md-2').Oppear({
+            delay: 1000,
+            direction: 'right',
+            distance: '200px',
+        });
+
+        $('.photo-left').Oppear({
+            delay: 1000,
+            direction: 'left',
+            distance: '200px',
+        });
+
+        $('.photo-right').Oppear({
+            delay: 1000,
+            direction: 'right',
+            distance: '200px',
+        });
+
+        $('.photo-down').Oppear({
+            delay: 1000,
+            direction: 'up',
+            distance: '200px',
+        });

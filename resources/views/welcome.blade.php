@@ -63,10 +63,10 @@
         <!-- FIRST BLOCK -->
         <div id="first-block">
             <div class="line">
-                <h1>Amazing Responsive Business Template</h1>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                    laoreet dolore magna aliquam erat volutpat.</p>
-                <div class="s-12 m-4 l-2 center"><a class="white-btn" href="#contact">Contact Us</a></div>
+                <h1 class="text-left-md-2">Amazing Responsive Business Template</h1>
+                <p class="text-left-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                    laoreet.</p>
+                <div class="s-12 m-4 l-2 center text-right-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
         <!-- FEATURES -->
@@ -131,25 +131,25 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por1.jpg" alt="">
+                                        </div><img src="assets/img/por1.jpg" alt="" class="photo-right">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por4.jpg" alt="">
+                                        </div><img src="assets/img/por4.jpg" alt="" class="photo-down">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/AC6.jpg" alt="">
+                                        </div><img src="assets/img/AC6.jpg" alt="" class="photo-down">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por3.jpg" alt="">
+                                        </div><img src="assets/img/por3.jpg" alt="" class="photo-left">
                                     </a></div>
                             </div>
                         </div>
