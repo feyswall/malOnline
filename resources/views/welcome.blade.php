@@ -7,7 +7,7 @@
         <div id="carousel">
             <div id="owl-demo" class="owl-carousel owl-theme">
                 <div class="item">
-                    <img src="assets/img/first.jpg" alt="">
+                    <img class="example1" src="assets/img/first.jpg" alt="">
                     <div class="line">
                         <div class="text hide-s">
                             <div class="line">
@@ -105,11 +105,11 @@
         <!-- ABOUT US -->
         <div id="about-us">
             <div class="s-12 m-12 l-6 media-container">
-                <img src="assets/img/about.jpg" alt="">
+                <img class="example1" src="assets/img/about.jpg" alt="">
             </div>
             <article class="s-12 m-12 l-6">
-                <h2>We are<br> Web Design<br> Heroes</h2>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                <h2 class="text-down-lg">We are<br> Web Design<br> Heroes</h2>
+                <p class="text-down-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
                     laoreet
                     dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
                     suscipit
@@ -320,7 +320,7 @@
 
 
         <!-- CONTACT -->
-        <div id="contact">
+        <div id="contact" class="example1">
             <div class="line">
                 <h2 class="section-title">Contact Us</h2>
                 <div class="margin">
@@ -365,11 +365,33 @@
 
 
 
-
         <div id="map-block">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41102.01981116671!2d39.25804081540041!3d-6.800421757720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bae169bd6f1%3A0x940f6b26a086a1dd!2sDar%20es%20Salaam!5e0!3m2!1ssw!2stz!4v1659710759090!5m2!1ssw!2stz"
                 width="100%" height="450" frameborder="0" style="border:0"></iframe>
         </div>
+
     </section>
+@endsection
+
+@section('script')
+    <script>
+        $('.example1').Oppear({
+            delay: 2000,
+            direction: 'right',
+            distance: '300px',
+        });
+
+        $('.text-down-lg').Oppear({
+            delay: 2000,
+            direction: 'down',
+            distance: '200px',
+        });
+
+        $('.text-down-md').Oppear({
+            delay: 3000,
+            direction: 'down',
+            distance: '200px',
+        });
+    </script>
 @endsection
