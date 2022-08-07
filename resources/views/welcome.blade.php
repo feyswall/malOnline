@@ -1,6 +1,4 @@
 @extends('layouts.system')
-
-
 @section('content')
     <section>
         <!-- CAROUSEL -->
@@ -36,7 +34,7 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Fully Responsive Components</h2>
+                            <h2 class="">Fully Responsive Components</h2>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna.</p>
                         </div>
