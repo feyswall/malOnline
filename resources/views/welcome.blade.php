@@ -5,7 +5,7 @@
         <div id="carousel">
             <div id="owl-demo" class="owl-carousel owl-theme">
                 <div class="item">
-                    <img class="example1" src="assets/img/first.jpg" alt="">
+                    <img class="" src="assets/img/first.jpg" alt="">
                     <div class="line">
                         <div class="text hide-s">
                             <div class="line">
@@ -373,23 +373,5 @@
 @endsection
 
 @section('script')
-    <script>
-        $('.example1').Oppear({
-            delay: 2000,
-            direction: 'right',
-            distance: '300px',
-        });
-
-        $('.text-down-lg').Oppear({
-            delay: 2000,
-            direction: 'down',
-            distance: '200px',
-        });
-
-        $('.text-down-md').Oppear({
-            delay: 3000,
-            direction: 'down',
-            distance: '200px',
-        });
-    </script>
+<script src="{{ asset('assets/animate/code.js') }}""></script>
 @endsection
