@@ -1,4 +1,5 @@
-         <div id="topbar" class="hide-s hide-m">
+        
+        <div id="topbar" class="hide-s hide-m">
             <div class="line">
                <div class="m-6 l-6 hide-s">
                   <p>ADDRESS: <strong>P.O.BOX 104635 DSM, KARIAKOO NARUNG’OMBE NA GOGO STREET.</strong></p>

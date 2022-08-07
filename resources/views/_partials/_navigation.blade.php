@@ -6,12 +6,17 @@
          <div class="top-nav s-12 l-10">
 
              <ul class="right">
-                 <li class="active-item"><a href="#carousel">Home</a></li>
-                 <li><a href="#features">Features</a></li>
-                 <li><a href="#about-us">About Us</a></li>
-                 <li><a href="#our-work">Our Work</a></li>
-                 <li><a href="#services">Services</a></li>
-                 <li><a href="#contact">Contact</a></li>
+                 <li class="{{ Route::current()->getName() == '' ? 'active-item' : '' }}"><a href="/">Home</a></li>
+                 <li class="{{ Route::current()->getName() == 'features' ? 'active-item' : '' }}"><a
+                         href="{{ route('features') }}">Features</a></li>
+                 <li class="{{ Route::current()->getName() == 'aboutUs' ? 'active-item' : '' }}"><a
+                         href="{{ route('aboutUs') }}">About Us</a></li>
+                 <li class="{{ Route::current()->getName() == 'ourWork' ? 'active-item' : '' }}"><a
+                         href="{{ route('ourWork') }}">Our Work</a></li>
+                 <li class="{{ Route::current()->getName() == 'services' ? 'active-item' : '' }}"><a
+                         href="{{ route('services') }}">Services</a></li>
+                 <li class="{{ Route::current()->getName() == 'contactUs' ? 'active-item' : '' }}"><a
+                         href="{{ route('contactUs') }}">Contact</a></li>
              </ul>
          </div>
      </div>
