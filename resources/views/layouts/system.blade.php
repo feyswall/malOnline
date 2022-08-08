@@ -3,7 +3,7 @@
 
 <head>
     @include('_partials._head')
-    <script type="text/javascript" src="{{ asset('assets/dist/jqFuwatto.umd.js') }}"></script>
+
 </head>
 
 <body class="size-1140">

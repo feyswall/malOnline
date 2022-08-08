@@ -246,7 +246,7 @@
             <div class="">
                 <h2 class="section-title">What we do</h2>
                 <div class="margin" style="margin: auto">
-                    <div class="s-12 m-6 l-3 margin-bottom" style="margin: 20px;">
+                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
                         <div class="service-text">
                             <img src="assets/img/umeme/one.jpg" alt="">
                             <h3>We create</h3>
@@ -254,7 +254,7 @@
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
-                    <div class="s-12 m-6 l-3 margin-bottom" style="margin: 20px;">
+                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
 
                         <div class="service-text">
                             <h3>We look to the future</h3>
@@ -391,15 +391,92 @@
                 </div>
             </div>
         </div>
+
+
+
         <!-- MAP -->
-
-
-
         <div id="map-block">
             <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41102.01981116671!2d39.25804081540041!3d-6.800421757720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bae169bd6f1%3A0x940f6b26a086a1dd!2sDar%20es%20Salaam!5e0!3m2!1ssw!2stz!4v1659710759090!5m2!1ssw!2stz"
                 width="100%" height="450" frameborder="0" style="border:0"></iframe>
         </div>
+
+
+
+
+
+        <section class="u-align-center u-clearfix u-valign-top-md u-valign-top-sm u-section-1" src=""
+            id="carousel_0e36">
+            <img class="u-expanded-width u-image u-image-1" src="assets/img/contact.jpg" data-image-width="1920"
+                data-image-height="624">
+            <div class="u-list u-list-1">
+                <div class="u-repeater u-repeater-1">
+                    <div
+                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-1">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+                            <div
+                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-1">
+                                <div class="u-container-layout u-valign-middle u-container-layout-2">
+                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-1"
+                                        data-animation-name="counter" data-animation-event="scroll"
+                                        data-animation-duration="3000">2k</h3>
+                                </div>
+                            </div>
+                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-2">Happy Customers</h5>
+                        </div>
+                    </div>
+                    <div
+                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-2">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+                            <div
+                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-2">
+                                <div class="u-container-layout u-valign-middle u-container-layout-4">
+                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-3"
+                                        data-animation-name="counter" data-animation-event="scroll"
+                                        data-animation-duration="3000">60</h3>
+                                </div>
+                            </div>
+                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-4">Project Completed</h5>
+                        </div>
+                    </div>
+                    <div
+                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-3">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
+                            <div
+                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-3">
+                                <div class="u-container-layout u-valign-middle u-container-layout-6">
+                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-5"
+                                        data-animation-name="counter" data-animation-event="scroll"
+                                        data-animation-duration="3000">98</h3>
+                                </div>
+                            </div>
+                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-6">Cups Of Coffee</h5>
+                        </div>
+                    </div>
+                    <div
+                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-4">
+                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7">
+                            <div
+                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-4">
+                                <div class="u-container-layout u-valign-middle u-container-layout-8">
+                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-7"
+                                        data-animation-name="counter" data-animation-event="scroll"
+                                        data-animation-duration="3000">34</h3>
+                                </div>
+                            </div>
+                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-8">awards</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p class="u-text u-text-black u-text-default u-text-9">Image by <a
+                    href="https://www.freepik.com/photos/people"
+                    class="u-border-1 u-border-grey-75 u-btn u-button-link u-button-style u-none u-text-body-color u-btn-1"
+                    target="_blank">Freepik</a>
+            </p>
+        </section>
+
+
 
     </section>
 @endsection
