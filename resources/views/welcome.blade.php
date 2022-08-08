@@ -66,7 +66,8 @@
         <div id="first-block">
             <div class="line">
                 <h1 class="text-left-md-2">Amazing Responsive Business Template</h1>
-                <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
+                    euismod tincidunt ut
                     laoreet dolore magna aliquam erat volutpat.</p>
                 <div class="s-12 m-4 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
@@ -75,29 +76,26 @@
         <div id="features">
             <div class="line">
                 <div class="margin">
+                    <h1 class="text-down-md-2" style="border-radius: 132px;">Our Team</h1>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-tablet icon3x"></i>
-                        <h2>Fully responsive</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill;">
+                        <h2>Mwijuma Anna</h2>
+                        <p>Chief Engineer.</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-isight icon3x"></i>
-                        <h2>Clean design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat adipiscing.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Zinduna Mjuba</h2>
+                        <p>Electrical Engineer</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-star icon3x"></i>
-                        <h2>Valid code</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna erat volutpat.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Salim Lugenge</h2>
+                        <p>Fire Fighter</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-heart icon3x"></i>
-                        <h2>Totally free</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat nonummy.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Othmani Talimo/h2>
+                            <p>IT Teacher</p>
                     </div>
                 </div>
             </div>
@@ -243,32 +241,35 @@
         </div>
         <!-- SERVICES -->
         <div id="services">
-            <div class="">
-                <h2 class="section-title">What we do</h2>
-                <div class="margin" style="margin: auto">
-                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
+            <h2 class="section-title">What we do</h2>
+            <div class="line">
+                <div class="s-12 m-12 l-12 ml-is-10">
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
                         <div class="service-text">
                             <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
                             <h3 class="text-down-lg">We create</h3>
-                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
-                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
 
                         <div class="service-text">
                             <h3 class="text-up-md">We look to the future</h3>
-                            <p class="text-up-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <p class="text-up-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                             <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
                         </div>
                     </div>
-                    <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
 
                         <div class="service-text">
                             <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
                             <h3 class="text-down-lg">We find a solution</h3>
-                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
@@ -279,7 +280,7 @@
 
 
         <!-- Our Awesome Service -->
-        <div id="contact" class="example1">
+        <div id="contact">
             <div class="">
                 <h2 class="section-title">Our Awesome Services</h2>
 

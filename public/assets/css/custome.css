@@ -1,0 +1,10 @@
+
+
+@media screen and (min-width: 991px){
+    .ml-is-10{
+         margin-left: 10%;
+    }
+    .mr-is-20{
+        margin: 20px;
+    }
+}

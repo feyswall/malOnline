@@ -10,7 +10,10 @@
       <link rel="stylesheet" href="{{ asset('assets/css/template-style.css') }}">
       <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext'
           rel='stylesheet' type='text/css'>
-      <script type="text/javascript" src="{{ asset('assets/js/jquery-1.8.3.min.js') }}"></script>
+      
+      <link rel="stylesheet" href="{{ asset('assets/css/custome.css') }}">
+
+          <script type="text/javascript" src="{{ asset('assets/js/jquery-1.8.3.min.js') }}"></script>
       <script type="text/javascript" src="{{ asset('assets/js/jquery-ui.min.js') }}"></script>
 
       <!-- for animation -->
@@ -19,4 +22,5 @@
       <!-- for counters -->
       <link rel="stylesheet" href="{{ asset('assets/count/nicepage.css') }}">
       <link rel="stylesheet" href="{{ asset('assets/count/About-1.css') }}">
+
       <script class="u-script" type="text/javascript" src="{{ asset('assets/count/nicepage.js') }}"></script>
