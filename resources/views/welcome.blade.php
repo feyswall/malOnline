@@ -134,7 +134,7 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por1.jpg" alt="" class="photo-right">
+                                        </div><img src="assets/img/bg1.jpg" alt="" class="photo-right">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
@@ -227,13 +227,13 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it1.jpg" alt="">
+                                        </div><img src="assets/img/it3.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it2.jpg" alt="">
+                                        </div><img src="assets/img/it4.jpg" alt="">
                                     </a></div>
                             </div>
                         </div>
