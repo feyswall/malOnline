@@ -65,10 +65,10 @@
         <!-- FIRST BLOCK -->
         <div id="first-block">
             <div class="line">
-                <h1>Amazing Responsive Business Template</h1>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
+                <h1 class="text-left-md-2">Amazing Responsive Business Template</h1>
+                <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
                     laoreet dolore magna aliquam erat volutpat.</p>
-                <div class="s-12 m-4 l-2 center"><a class="white-btn" href="#contact">Contact Us</a></div>
+                <div class="s-12 m-4 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
         <!-- FEATURES -->
@@ -134,25 +134,25 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por1.jpg" alt="">
+                                        </div><img src="assets/img/bg1.jpg" alt="" class="photo-right">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por4.jpg" alt="">
+                                        </div><img src="assets/img/por4.jpg" alt="" class="photo-up">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/AC6.jpg" alt="">
+                                        </div><img src="assets/img/AC6.jpg" alt="" class="photo-up">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por3.jpg" alt="">
+                                        </div><img src="assets/img/por3.jpg" alt="" class="photo-left">
                                     </a></div>
                             </div>
                         </div>
@@ -227,13 +227,13 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it1.jpg" alt="">
+                                        </div><img src="assets/img/it3.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it2.jpg" alt="">
+                                        </div><img src="assets/img/it4.jpg" alt="">
                                     </a></div>
                             </div>
                         </div>
@@ -248,27 +248,27 @@
                 <div class="margin" style="margin: auto">
                     <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
                         <div class="service-text">
-                            <img src="assets/img/umeme/one.jpg" alt="">
-                            <h3>We create</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
+                            <h3 class="text-down-lg">We create</h3>
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
                     <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
 
                         <div class="service-text">
-                            <h3>We look to the future</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <h3 class="text-up-md">We look to the future</h3>
+                            <p class="text-up-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                            <img src="assets/img/umeme/two.jpg" alt="">
+                            <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
                         </div>
                     </div>
                     <div class="s-12 m-12 l-3 margin-bottom" style="margin: 20px;">
 
                         <div class="service-text">
-                            <img src="assets/img/umeme/three.jpg" alt="">
-                            <h3>We find a solution</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+                            <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
+                            <h3 class="text-down-lg">We find a solution</h3>
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
                     </div>
@@ -278,25 +278,25 @@
 
 
 
-        <!-- Our Owesome Service -->
+        <!-- Our Awesome Service -->
         <div id="contact" class="example1">
             <div class="">
-                <h2 class="section-title">Our Owesome Servicea</h2>
+                <h2 class="section-title">Our Awesome Services</h2>
 
                 <div class="margin">
                     <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
-                        <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="">
+                        <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="" class="photo-right">
                     </div>
                     <div class="s-12 m-12 l-4">
                         <h3>Example contact form (do not use)</h3>
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/111.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
                         </div>
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/make.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/service/make.jpg') }}" alt="" class="photo-left">
                         </div>
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="">
+                            <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="" class="photo-up">
                         </div>
                     </div>
                 </div>

@@ -8,12 +8,24 @@
         $('.text-down-lg').Oppear({
             delay: 2000,
             direction: 'down',
-            distance: '200px',
+            distance: '400px',
         });
 
         $('.text-down-md').Oppear({
             delay: 2000,
             direction: 'left',
+            distance: '200px',
+        });
+
+        $('.text-up-md').Oppear({
+            delay: 2000,
+            direction: 'up',
+            distance: '200px',
+        });
+
+        $('.text-up-md-2').Oppear({
+            delay: 1000,
+            direction: 'up',
             distance: '200px',
         });
 
@@ -42,6 +54,12 @@
         });
 
         $('.photo-down').Oppear({
+            delay: 1000,
+            direction: 'down',
+            distance: '200px',
+        });
+
+        $('.photo-up').Oppear({
             delay: 1000,
             direction: 'up',
             distance: '200px',
