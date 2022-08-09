@@ -72,7 +72,7 @@
                 <div class="s-12 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
-   
+
 
         <!-- ABOUT US -->
         <div id="about-us">
@@ -213,6 +213,8 @@
                 </div>
             </div>
         </div>
+
+
         <!-- SERVICES -->
         <div id="services">
             <h2 class="section-title">What we do</h2>
@@ -282,6 +284,9 @@
                  <div class="item s-12 m-12 l-12">
                     <img class="photo-up" src="assets/img/down.jpg" alt="">
                 </div>  
+                <div class="item s-12 m-12 l-12">
+                    <img class="" src="assets/img/down.jpg" alt="">
+                </div>
             </div>
         </div>
 
@@ -289,7 +294,7 @@
         <!-- CONTACT -->
         <div id="contact" class="">
             <div class="line">
-                <h2 class="section-title">Contact Us</h2>
+                <h2 class="section-title" style="">Contact Us</h2>
                 <div class="margin">
                     <div class="s-12 m-12 l-3 hide-m hide-s margin-bottom right-align">
                         <img src="assets/img/contact.jpg" alt="">
@@ -336,6 +341,56 @@
 
 
 
+
+        <main class="">
+            <div class="container-fluid young-passion-gradient">
+                <div class="container hero">
+                    <div class="row">
+
+                        <div class="col-md">
+                            <h3 class="text-white">
+                                Our Statics
+                            </h3>
+                            <p>What we achieve up to now</p>
+                        </div>
+                        <div class="col-md">
+                            <div id="counters_hero">
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Experience</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
+                                    </div>
+                                </div>
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Workers</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
+                                    </div>
+                                </div>
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Clients</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="999" data-Direction="normal"
+                                            data-Speed="6000">0</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+
+
+
+
         <!-- MAP -->
         <div id="map-block">
             <iframe
@@ -345,9 +400,6 @@
 
 
     </section>
-
-
-
      <main>
 
         <div class="container-fluid young-passion-gradient">
@@ -398,9 +450,6 @@
         </div>
 
     </main>
-
-
-
 @endsection
 
 @section('script')
