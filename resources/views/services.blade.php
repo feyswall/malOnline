@@ -15,7 +15,6 @@
                         <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="" class="photo-right">
                     </div>
                     <div class="s-12 m-12 l-4">
-                        <h3>Example contact form (do not use)</h3>
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
                             <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
                         </div>
@@ -38,7 +37,7 @@
                     <div class="s-12 m-6 l-4 margin-bottom">
                         <i class="icon-vector"></i>
                         <div class="service-text">
-                            <h3>We create</h3>
+                            <h3>We find the problem</h3>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
@@ -54,7 +53,7 @@
                     <div class="s-12 m-12 l-4 margin-bottom">
                         <i class="icon-random"></i>
                         <div class="service-text">
-                            <h3>We find a solution</h3>
+                            <h3>We create a solution</h3>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
                         </div>
