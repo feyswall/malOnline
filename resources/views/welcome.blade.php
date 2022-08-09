@@ -284,12 +284,8 @@
                  <div class="item s-12 m-12 l-12">
                     <img class="photo-up" src="assets/img/down.jpg" alt="">
                 </div>  
-                <div class="item s-12 m-12 l-12">
-                    <img class="" src="assets/img/down.jpg" alt="">
-                </div>
             </div>
         </div>
-
 
         <!-- CONTACT -->
         <div id="contact" class="">
@@ -360,7 +356,7 @@
                                         <p>Experience</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
+                                        <div class="counter" data-TargetNum="6" data-Speed="4000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
@@ -368,7 +364,7 @@
                                         <p>Workers</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
+                                        <div class="counter" data-TargetNum="30" data-Speed="8000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
@@ -376,7 +372,7 @@
                                         <p>Clients</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="999" data-Direction="normal"
+                                        <div class="counter" data-TargetNum="20" data-Direction="normal"
                                             data-Speed="6000">0</div>
                                     </div>
                                 </div>
@@ -386,11 +382,6 @@
                 </div>
             </div>
         </main>
-
-
-
-
-
         <!-- MAP -->
         <div id="map-block">
             <iframe
@@ -401,53 +392,6 @@
 
     </section>
      <main>
-
-        <div class="container-fluid young-passion-gradient">
-            <div class="container hero">
-                <div class="row">
-
-                    <div class="col-md">
-                        <h3 class="text-white">
-                            Our Statics
-                        </h3>
-                        <p>High configurable animated Counter</p>
-                        <a href="https://github.com/pablog1/js-animated-counter">
-                            <button>See Repo</button>
-                        </a>
-                    </div>
-                    <div class="col-md">
-                        <div id="counters_hero">
-                            <div class="cont">
-                                <div class="label">
-                                    <p>Experience</p>
-                                </div>
-                                <div class="circle">
-                                    <div class="counter" data-TargetNum="6" data-Speed="4000">0</div>
-                                </div>
-                            </div>
-                            <div class="cont">
-                                <div class="label">
-                                    <p>Workers</p>
-                                </div>
-                                <div class="circle">
-                                    <div class="counter" data-TargetNum="30" data-Speed="8000">0</div>
-                                </div>
-                            </div>
-                            <div class="cont">
-                                <div class="label">
-                                    <p>Clients</p>
-                                </div>
-                                <div class="circle">
-                                    <div class="counter" data-TargetNum="20" data-Direction="reverse"
-                                        data-Speed="6000">0</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
 
     </main>
 @endsection
