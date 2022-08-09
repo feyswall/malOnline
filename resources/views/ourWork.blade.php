@@ -92,45 +92,33 @@
   </div>
   <!-- Gallery -->
 
-        <div id="services">
-            <h2 class="section-title">What we do</h2>
-            <div class="line">
-                <div class="s-12 m-12 l-12 ml-is-10">
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-                        <div class="service-text">
-                            <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
-                            <h3 class="text-down-lg">We create</h3>
-                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                                nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                        </div>
-                    </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
+    <!-- Our Awesome Service -->
+   <!-- Our Awesome Service -->
+   <div id="contact">
+    <div class="">
+        <h2 class="section-title">We serve for you</h2>
 
-                        <div class="service-text">
-                            <h3 class="text-up-md">We look to the future</h3>
-                            <p class="text-up-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                                nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                            <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
-                        </div>
-                    </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-
-                        <div class="service-text">
-                            <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
-                            <h3 class="text-down-lg">We find a solution</h3>
-                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-                                nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                        </div>
-                    </div>
+        <div class="margin">
+            <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
+                <img src="{{ asset('assets/img/now.jpg') }}" alt="" class="photo-right">
+            </div>
+            <div class="s-12 m-12 l-4">
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
+                </div>
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/service/make.jpg') }}" alt="" class="photo-left">
+                </div>
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/cheche.jpg') }}" alt="" class="photo-up">
                 </div>
             </div>
         </div>
-
-
-
-        
+    </div>
+</div>
     </section>
+@endsection
+
+@section('script')
+    <script src="{{ asset('assets/animate/code.js') }}""></script>
 @endsection
