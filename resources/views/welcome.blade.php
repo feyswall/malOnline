@@ -335,7 +335,9 @@
 
 
         <main class="">
-            <div class="container-fluid young-passion-gradient">
+            <div class="container-fluid"
+                style="background: rgb(103,150,35);
+background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%, rgba(140,215,78,1) 94%);">
                 <div class="container hero">
                     <div class="row">
 
