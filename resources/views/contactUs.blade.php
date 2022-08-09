@@ -3,32 +3,38 @@
 
 @section('content')
     <section>
-        <div id="contact">
-            <div class="line mt-5">
-                <h2 class="section-title">Contact Us</h2>
+                <!-- CONTACT -->
+        <div id="contact" class="">
+            <div class="line">
+                <h2 class="section-title" style="">Contact Us</h2>
                 <div class="margin">
                     <div class="s-12 m-12 l-3 hide-m hide-s margin-bottom right-align">
                         <img src="assets/img/contact.jpg" alt="">
                     </div>
                     <div class="s-12 m-12 l-4 margin-bottom right-align">
-                        <h3>Vision Design - graphic zoo</h3>
+                        <h3>Location</h3>
                         <address>
-                            <p><strong>Adress:</strong> Gallayova 19, 841 02 Bratislava</p>
-                            <p><strong>Country:</strong> Slovakia - Europe</p>
+                            <p><strong>Adress:</strong> Kariakoo Narung'ombe na Gogo Street.
+                                Plot no 64, Block no 34</p>
+                            <p><strong>Country:</strong> Tanzania - Dar Es Salaam</p>
                             <p><strong>E-mail:</strong> info@visiondesign.sk</p>
                         </address>
                         <br />
-                        <h3>Social</h3>
-                        <p><i class="icon-facebook icon"></i> <a
-                                href="https://www.facebook.com/pages/Vision-Design-graphic-ZOO/154664684553091">Vision
-                                Design - graphic zoo</a></p>
-                        <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/myresponsee">Responsee</a>
-                        </p>
+                        <h3>Contacts & Social</h3>
                         <p class="margin-bottom"><i class="icon-twitter icon"></i> <a
-                                href="https://twitter.com/MyResponsee">Responsee</a></p>
+                            href="https://twitter.com/MyResponsee">Responsee</a>
+                        </p>
+                        <p><i class="icon-facebook icon"></i> <a
+                                href="https://www.facebook.com/pages/Vision-Design-graphic-ZOO/154664684553091">
+                                0678408300</a>
+                        </p>
+                        <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/myresponsee">
+                            0765433454 / 0715445507</a>
+                        </p>
+                      
                     </div>
                     <div class="s-12 m-12 l-5">
-                        <h3>Example contact form (do not use)</h3>
+                        <h3>Get in touch</h3>
                         <form class="customform" action="">
                             <div class="s-12"><input name="" placeholder="Your e-mail" title="Your e-mail"
                                     type="text" /></div>
