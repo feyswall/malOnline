@@ -12,7 +12,7 @@
                  <li class="{{ Route::current()->getName() == 'aboutUs' ? 'active-item' : '' }}"><a
                          href="{{ route('aboutUs') }}">About Us</a></li>
                  <li class="{{ Route::current()->getName() == 'ourWork' ? 'active-item' : '' }}"><a
-                         href="{{ route('ourWork') }}">Our Work</a></li>
+                         href="{{ route('ourWork') }}">Album</a></li>
                  <li class="{{ Route::current()->getName() == 'services' ? 'active-item' : '' }}"><a
                          href="{{ route('services') }}">Services</a></li>
                  <li class="{{ Route::current()->getName() == 'contactUs' ? 'active-item' : '' }}"><a
