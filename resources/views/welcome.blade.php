@@ -18,9 +18,10 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Best Electrical Service for your</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna.</p>
+                            <h2>We are the Current best Specialist</h2>
+                            <p>Do you Need Help
+                                With Electrical
+                                Maintenance or electrical devices?</p>
                         </div>
                     </div>
                 </div>
@@ -36,9 +37,8 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Best Electrical Service for your</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna.</p>
+                            <h2> We Have The Best Electrical Service for your</h2>
+                            <p>We are here to Help you In Any Way We can.</p>
                         </div>
                     </div>
                 </div>
@@ -55,8 +55,7 @@
                                 </div>
                             </div>
                             <h2>Best Electrical Service for your!</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                tincidunt ut laoreet dolore magna.</p>
+                            <p>We Provide Best Services, For Your Best Future</p>
                         </div>
                     </div>
                 </div>
@@ -65,10 +64,11 @@
         <!-- FIRST BLOCK -->
         <div id="first-block">
             <div class="line">
-                <h1 class="text-left-md-2">Residential & Commercial Electrical Services</h1>
-                <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    euismod tincidunt ut
-                    laoreet dolore magna aliquam erat volutpat.</p>
+                <h1 class="text-left-md-2">Fire Control System Installation</h1>
+                <p class="text-right-md-2">
+                    We Provide Fire Safety Systems, which responds to our customer needs, We continue to
+                    provide first quality services and products to its customers....
+                </p>
                 <div class="s-12 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
@@ -80,13 +80,11 @@
                 <img class="example1" src="assets/img/about.jpg" alt="">
             </div>
             <article class="s-12 m-12 l-6">
-                <h2 class="text-down-lg">Do you Need Help<br> With Electrical<br> Maintenance?</h2>
-                <p class="text-down-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
-                    euismod tincidunt ut
-                    laoreet
-                    dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper
-                    suscipit
-                    lobortis nisl ut aliquip ex ea commodo consequat.
+                <h2 class="text-down-lg">Do you Need Help<br> File Control<br> Systems?</h2>
+                <p class="text-down-md">
+                    We Provide Fire Safety Systems, which respond to our customer's needs, We continue to
+                    provide first-quality services and products to our customers. Our company Guarantee your
+                    Safety By Providing Sustaining Devices And Well-Trained Technicians
                 </p>
                 <div class="about-us-icons">
                     <i class="icon-paperplane_ico"></i> <i class="icon-trophy"></i> <i class="icon-clock"></i>
@@ -96,7 +94,7 @@
         <!-- OUR WORK -->
         <div id="our-work">
             <div class="line">
-                <h2 class="section-title">Our Work</h2>
+                <h2 class="section-title">What We Provide</h2>
                 <div class="tabs">
                     <div class="tab-item tab-active">
                         <a class="tab-label active-btn">Electricity</a>
@@ -104,27 +102,27 @@
                             <div class="margin">
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/bg1.jpg" alt="" class="photo-right">
+                                            <h4>Consultancy</h4>
+                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
+                                        </div><img src="assets/img/bg1.jpg" alt="" class="t">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por4.jpg" alt="" class="photo-up">
+                                            <h4>Solar Systems Installation</h4>
+                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
+                                        </div><img src="assets/img/por4.jpg" alt="" class="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/AC6.jpg" alt="" class="photo-up">
+                                            <h4>AC Services</h4>
+                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
+                                        </div><img src="assets/img/AC6.jpg" alt="" class="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por3.jpg" alt="" class="photo-left">
+                                            <h4>Electrical Design</h4>
+                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
+                                        </div><img src="assets/img/por3.jpg" alt="" class="">
                                     </a></div>
                             </div>
                         </div>
@@ -135,26 +133,26 @@
                             <div class="margin">
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Industrial Fire Fighting Systems</h4>
+                                            <p>Full Automated File Fighting Systems.</p>
                                         </div><img src="assets/img/fire1.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Fire Estinguisher Portable Devices</h4>
+                                            <p>Fire Estinguisher CO<sub>2</sub> Tanks</p>
                                         </div><img src="assets/img/fire2.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Residential Fire Fighting Systems</h4>
+                                            <p>Fire Fighting System In Your Confort.</p>
                                         </div><img src="assets/img/fire3.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Water Spreying Devices</h4>
+                                            <p>Auto smoke detectors.</p>
                                         </div><img src="assets/img/fire4.jpg" alt="">
                                     </a></div>
                             </div>
@@ -166,26 +164,26 @@
                             <div class="margin">
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Portable Tablet View</h4>
+                                            <p>CCTV Connected with Your Hand Devices.</p>
                                         </div><img src="assets/img/sur1.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>WIFI and Wired Cameras</h4>
+                                            <p>To fit your Needs.</p>
                                         </div><img src="assets/img/sur2.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Hight Definition View</h4>
+                                            <p>Current Generation Lens For Better View.</p>
                                         </div><img src="assets/img/sur4.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Portable CCTV</h4>
+                                            <p>CCTV That Are Portable and Easy To Use.</p>
                                         </div><img src="assets/img/sur3.jpg" alt="">
                                     </a></div>
                             </div>
@@ -197,14 +195,14 @@
                             <div class="margin">
                                 <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Leasons Concern Electricity</h4>
+                                            <p>Our Programs are Under High Care With Good Trained Instructors In Electricity.</p>
                                         </div><img src="assets/img/it3.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
-                                            <h4>Lorem Ipsum Dolor</h4>
-                                            <p>Laoreet dolore magna aliquam erat volutpat.</p>
+                                            <h4>Leasons Concerning IT</h4>
+                                            <p>Learn Everything You Need To Know Concerning IT Field.</p>
                                         </div><img src="assets/img/it4.jpg" alt="">
                                     </a></div>
                             </div>
@@ -281,11 +279,12 @@
 
         <div id="latest-news">
             <div class="">
-                 <div class="item s-12 m-12 l-12">
+                <div class="item s-12 m-12 l-12">
                     <img class="photo-up" src="assets/img/down.jpg" alt="">
-                </div>  
+                </div>
             </div>
         </div>
+
         <main class="">
             <div class="container-fluid"
                 style="background: white">
@@ -328,7 +327,7 @@
             </div>
         </main>
     </section>
-     <main>
+    <main>
 
     </main>
 @endsection
