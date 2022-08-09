@@ -3,7 +3,7 @@
 @section('content')
     <section class="mb-5">
 
-        <div id="about-us">
+        <div id="about-us" class="mt-2">
             <div class="s-12 m-12 l-6 media-container">
                 <img class="example1" src="assets/img/about.jpg" alt="">
             </div>
@@ -24,26 +24,23 @@
             <div class="line">
                 <div class="margin">
                     <h1 class="text-down-md-2" style="border-radius: 132px;">Our Team</h1>
-                    <div class="s-12 m-6 l-3 margin-bottom">
-                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill;">
-                        <h2>Mwijuma Anna</h2>
-                        <p>Chief Engineer.</p>
+                    <div class="s-12 m-6 l-4 margin-bottom">
+                        <img src="assets/img/user.png" alt="" style="object-fit: fill;">
+                        <h2>RASHID SEIF </h2>
+                        <p>Managing Director.</p>
                     </div>
-                    <div class="s-12 m-6 l-3 margin-bottom">
-                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
-                        <h2>Zinduna Mjuba</h2>
-                        <p>Electrical Engineer</p>
+                    <div class="s-12 m-6 l-4 margin-bottom">
+                        <img src="assets/img/user.png" alt="" style="object-fit: fill">
+                        <h2>SAMSON MANASE</h2>
+                        <p>Technical Director</p>
                     </div>
-                    <div class="s-12 m-6 l-3 margin-bottom">
-                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
-                        <h2>Salim Lugenge</h2>
-                        <p>Fire Fighter</p>
+                    <div class="s-12 m-6 l-4 margin-bottom">
+                        <img src="assets/img/user.png" alt="" style="object-fit: fill">
+                        <h2>ATHUMAN MWAMBA</h2>
+                        <p>Director</p>
                     </div>
-                    <div class="s-12 m-6 l-3 margin-bottom">
-                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
-                        <h2>Othmani Talimo/h2>
-                            <p>IT Teacher</p>
-                    </div>
+
+
                 </div>
             </div>
         </div>
