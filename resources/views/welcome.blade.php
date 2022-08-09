@@ -7,7 +7,7 @@
         <div id="carousel">
             <div id="owl-demo" class="owl-carousel owl-theme">
                 <div class="item">
-                    <img class="" src="assets/img/first.jpg" alt="">
+                    <img class="" src="assets/img/down.jpg" alt="">
                     <div class="line">
                         <div class="text hide-s">
                             <div class="line">
@@ -18,7 +18,7 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Free Onepage Responsive Template</h2>
+                            <h2>Best Electrical Service for your</h2>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna.</p>
                         </div>
@@ -36,7 +36,7 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Fully Responsive Components</h2>
+                            <h2>Best Electrical Service for your</h2>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna.</p>
                         </div>
@@ -54,7 +54,7 @@
                                     <i class="icon-chevron_right"></i>
                                 </div>
                             </div>
-                            <h2>Build new Layout in 10 minutes!</h2>
+                            <h2>Best Electrical Service for your!</h2>
                             <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna.</p>
                         </div>
@@ -65,7 +65,7 @@
         <!-- FIRST BLOCK -->
         <div id="first-block">
             <div class="line">
-                <h1 class="text-left-md-2">Amazing Responsive Business Template</h1>
+                <h1 class="text-left-md-2">Residential & Commercial Electrical Services</h1>
                 <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
                     euismod tincidunt ut
                     laoreet dolore magna aliquam erat volutpat.</p>
@@ -106,7 +106,7 @@
                 <img class="example1" src="assets/img/about.jpg" alt="">
             </div>
             <article class="s-12 m-12 l-6">
-                <h2 class="text-down-lg">We are<br> Web Design<br> Heroes</h2>
+                <h2 class="text-down-lg">Do you Need Help<br> With Electrical<br> Maintenance?</h2>
                 <p class="text-down-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
                     euismod tincidunt ut
                     laoreet
@@ -247,7 +247,7 @@
                     <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
                         <div class="service-text">
                             <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
-                            <h3 class="text-down-lg">We create</h3>
+                            <h3 class="text-down-lg">We find the problem</h3>
                             <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
                                 nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -267,7 +267,7 @@
 
                         <div class="service-text">
                             <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
-                            <h3 class="text-down-lg">We find a solution</h3>
+                            <h3 class="text-down-lg">We create a solution</h3>
                             <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
                                 nonummy nibh euismod
                                 tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
@@ -289,7 +289,6 @@
                         <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="" class="photo-right">
                     </div>
                     <div class="s-12 m-12 l-4">
-                        <h3>Example contact form (do not use)</h3>
                         <div class="s-12 m-12 l-7 margin-bottom right-align">
                             <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
                         </div>
@@ -307,45 +306,11 @@
 
 
         <!-- LATEST NEWS -->
-        <div id="latest-news">
+        <div >
             <div class="line">
-                <h2 class="section-title">Latest News</h2>
-                <div class="margin">
-                    <div class="s-12 m-6 l-6">
-                        <div class="s-12 l-2">
-                            <div class="news-date">
-                                <p class="day">28</p>
-                                <p class="month">AUGUST</p>
-                                <p class="year">2015</p>
-                            </div>
-                        </div>
-                        <div class="s-12 l-10">
-                            <div class="news-text">
-                                <h4>First latest News</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                    tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="s-12 m-6 l-6">
-                        <div class="s-12 l-2">
-                            <div class="news-date">
-                                <p class="day">12</p>
-                                <p class="month">JULY</p>
-                                <p class="year">2015</p>
-                            </div>
-                        </div>
-                        <div class="s-12 l-10">
-                            <div class="news-text">
-                                <h4>Second latest News</h4>
-                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                                    tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                 <div class="item s-12 m-12 l-12">
+                    <img class="" src="assets/img/down.jpg" alt="">
+                </div>  
             </div>
         </div>
 
