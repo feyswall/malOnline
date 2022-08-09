@@ -7,7 +7,7 @@
                 <img src="assets/img/about.jpg" alt="">
             </div>
             <article class="s-12 m-12 l-6">
-                <h2>We are<br> Web Design<br> Heroes</h2>
+                <h2>A company<br> With Advanced<br> Electrical Solutions</h2>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
                     laoreet
                     dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper

@@ -219,7 +219,7 @@
         <div id="services">
             <h2 class="section-title">What we do</h2>
             <div class="line">
-                <div class="s-12 m-12 l-12 ml-is-10">
+                <div class="s-12 m-12 l-12 ">
                     <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
                         <div class="service-text">
                             <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
