@@ -124,7 +124,7 @@
             </div>
         </div>
 
-      <div id="services">
+        <div id="services">
             <h2 class="section-title">What we do</h2>
             <div class="line">
                 <div class="s-12 m-12 l-12 ml-is-10">
@@ -160,6 +160,53 @@
                 </div>
             </div>
         </div>
+
+
+        <main class="mt-3">
+            <div class="container-fluid young-passion-gradient">
+                <div class="container hero">
+                    <div class="row">
+
+                        <div class="col-md">
+                            <h3 class="text-white">
+                                Our Statics
+                            </h3>
+                            <p>What we achieve up to now</p>
+                        </div>
+                        <div class="col-md">
+                            <div id="counters_hero">
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Experience</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
+                                    </div>
+                                </div>
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Workers</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
+                                    </div>
+                                </div>
+                                <div class="cont">
+                                    <div class="label">
+                                        <p>Clients</p>
+                                    </div>
+                                    <div class="circle">
+                                        <div class="counter" data-TargetNum="999" data-Direction="normal"
+                                            data-Speed="6000">0</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
 
     </section>
 @endsection
