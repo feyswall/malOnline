@@ -350,8 +350,8 @@
                 <div class="row">
 
                     <div class="col-md">
-                        <h3>
-                            JS / JQuery animated Counter
+                        <h3 class="text-white">
+                            Our Statics
                         </h3>
                         <p>High configurable animated Counter</p>
                         <a href="https://github.com/pablog1/js-animated-counter">
@@ -362,7 +362,7 @@
                         <div id="counters_hero">
                             <div class="cont">
                                 <div class="label">
-                                    <p>Easy to implement</p>
+                                    <p>Experience</p>
                                 </div>
                                 <div class="circle">
                                     <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
@@ -370,7 +370,7 @@
                             </div>
                             <div class="cont">
                                 <div class="label">
-                                    <p>Configurable speed</p>
+                                    <p>Workers</p>
                                 </div>
                                 <div class="circle">
                                     <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
@@ -378,7 +378,7 @@
                             </div>
                             <div class="cont">
                                 <div class="label">
-                                    <p>Timer function</p>
+                                    <p>Clients</p>
                                 </div>
                                 <div class="circle">
                                     <div class="counter" data-TargetNum="999" data-Direction="reverse"
