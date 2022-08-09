@@ -6,15 +6,8 @@
             style="background-color: #1c2331"
             >
       <!-- Section: Social media -->
-      <section
-               class="d-flex justify-content-between p-4"
-               style="background-color: #6351ce"
-               >
-        {{-- <!-- Left -->
-        <div class="me-5">
-          <span>Get connected with us on social networks:</span>
-        </div>
-        <!-- Left --> --}}
+      <section >
+  
   
         <!-- Right -->
         <div>
@@ -55,35 +48,12 @@
                   style="width: 60px; background-color: #7c4dff; height: 2px"
                   />
               <p>
-                Here you can use rows and columns to organize your footer
-                content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                elit.
+                All of our services are backed by our 100% satisfaction guarantee. Our electricians can install anything from new security lighting for outdoors to a whole home generator that will keep your appliances working during a power outage.
               </p>
             </div>
             <!-- Grid column -->
   
-            <!-- Grid column -->
-            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-              <!-- Links -->
-              <h6 class="text-uppercase fw-bold">Products</h6>
-              <hr
-                  class="mb-4 mt-0 d-inline-block mx-auto"
-                  style="width: 60px; background-color: #7c4dff; height: 2px"
-                  />
-              <p>
-                <a href="#!" class="text-white">MDBootstrap</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">MDWordPress</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">BrandFlow</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">Bootstrap Angular</a>
-              </p>
-            </div>
-            <!-- Grid column -->
+
   
             <!-- Grid column -->
             <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -94,13 +64,13 @@
                   style="width: 60px; background-color: #7c4dff; height: 2px"
                   />
               <p>
-                <a href="#!" class="text-white">Your Account</a>
+                <a href="#!" class="text-white">RMA Engineering Limited</a>
               </p>
               <p>
                 <a href="#!" class="text-white">Become an Affiliate</a>
               </p>
               <p>
-                <a href="#!" class="text-white">Shipping Rates</a>
+                <a href="#!" class="text-white">Serving for you</a>
               </p>
               <p>
                 <a href="#!" class="text-white">Help</a>
@@ -116,10 +86,10 @@
                   class="mb-4 mt-0 d-inline-block mx-auto"
                   style="width: 60px; background-color: #7c4dff; height: 2px"
                   />
-              <p><i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
-              <p><i class="fas fa-envelope mr-3"></i> info@example.com</p>
-              <p><i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
-              <p><i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+              <p><i class="fas fa-home mr-3"></i> Dar Es Salaam, Tanzania</p>
+              <p><i class="fas fa-envelope mr-3"></i> rmacontructors@gmail.com</p>
+              <p><i class="fas fa-phone mr-3"></i> + 255 765 433 454</p>
+              <p><i class="fas fa-print mr-3"></i> + 255 715 445 507</p>
             </div>
             <!-- Grid column -->
           </div>
@@ -133,10 +103,7 @@
            class="text-center p-3"
            style="background-color: rgba(0, 0, 0, 0.2)"
            >
-        © 2020 Copyright:
-        <a class="text-white" href="https://mdbootstrap.com/"
-           >MDBootstrap.com</a
-          >
+        <small>© 2022 Copyright: theforbins.com</small>
       </div>
       <!-- Copyright -->
     </footer>
