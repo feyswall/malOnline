@@ -6,7 +6,7 @@
 
         <div id="our-work">
             <div class="line">
-                <h2 class="section-title mt-5 mt-5">Our Work</h2>
+                <h2 class="section-title">Our Work</h2>
                 <div class="tabs">
                     <div class="tab-item tab-active">
                         <a class="tab-label active-btn">Electricity</a>
@@ -16,25 +16,25 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por1.jpg" alt="">
+                                        </div><img src="assets/img/bg1.jpg" alt="" class="photo-right">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por4.jpg" alt="">
+                                        </div><img src="assets/img/por4.jpg" alt="" class="photo-up">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/AC6.jpg" alt="">
+                                        </div><img src="assets/img/AC6.jpg" alt="" class="photo-up">
                                     </a></div>
                                 <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/por3.jpg" alt="">
+                                        </div><img src="assets/img/por3.jpg" alt="" class="photo-left">
                                     </a></div>
                             </div>
                         </div>
@@ -109,13 +109,13 @@
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it1.jpg" alt="">
+                                        </div><img src="assets/img/it3.jpg" alt="">
                                     </a></div>
                                 <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
                                         <div class="our-work-text">
                                             <h4>Lorem Ipsum Dolor</h4>
                                             <p>Laoreet dolore magna aliquam erat volutpat.</p>
-                                        </div><img src="assets/img/it2.jpg" alt="">
+                                        </div><img src="assets/img/it4.jpg" alt="">
                                     </a></div>
                             </div>
                         </div>
@@ -123,5 +123,43 @@
                 </div>
             </div>
         </div>
+
+      <div id="services">
+            <h2 class="section-title">What we do</h2>
+            <div class="line">
+                <div class="s-12 m-12 l-12 ml-is-10">
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
+                        <div class="service-text">
+                            <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
+                            <h3 class="text-down-lg">We create</h3>
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
+                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                        </div>
+                    </div>
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
+
+                        <div class="service-text">
+                            <h3 class="text-up-md">We look to the future</h3>
+                            <p class="text-up-md">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
+                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                            <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
+                        </div>
+                    </div>
+                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
+
+                        <div class="service-text">
+                            <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
+                            <h3 class="text-down-lg">We find a solution</h3>
+                            <p class="text-down-lg">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+                                nonummy nibh euismod
+                                tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </section>
 @endsection

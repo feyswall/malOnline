@@ -73,7 +73,7 @@
             </div>
         </div>
    
-        
+
         <!-- ABOUT US -->
         <div id="about-us">
             <div class="s-12 m-12 l-6 media-container">
@@ -325,7 +325,7 @@
 
 
         <!-- CONTACT -->
-        <div id="contact" class="example1">
+        <div id="contact" class="">
             <div class="line">
                 <h2 class="section-title">Contact Us</h2>
                 <div class="margin">
@@ -377,83 +377,63 @@
         </div>
 
 
+    </section>
 
 
 
-        <section class="u-align-center u-clearfix u-valign-top-md u-valign-top-sm u-section-1" src=""
-            id="carousel_0e36">
-            <img class="u-expanded-width u-image u-image-1" src="assets/img/contact.jpg" data-image-width="1920"
-                data-image-height="624">
-            <div class="u-list u-list-1">
-                <div class="u-repeater u-repeater-1">
-                    <div
-                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-1">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-                            <div
-                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-1">
-                                <div class="u-container-layout u-valign-middle u-container-layout-2">
-                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-1"
-                                        data-animation-name="counter" data-animation-event="scroll"
-                                        data-animation-duration="3000">2k</h3>
-                                </div>
-                            </div>
-                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-2">Happy Customers</h5>
-                        </div>
+     <main>
+
+        <div class="container-fluid young-passion-gradient">
+            <div class="container hero">
+                <div class="row">
+
+                    <div class="col-md">
+                        <h3>
+                            JS / JQuery animated Counter
+                        </h3>
+                        <p>High configurable animated Counter</p>
+                        <a href="https://github.com/pablog1/js-animated-counter">
+                            <button>See Repo</button>
+                        </a>
                     </div>
-                    <div
-                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-2">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-                            <div
-                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-2">
-                                <div class="u-container-layout u-valign-middle u-container-layout-4">
-                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-3"
-                                        data-animation-name="counter" data-animation-event="scroll"
-                                        data-animation-duration="3000">60</h3>
+                    <div class="col-md">
+                        <div id="counters_hero">
+                            <div class="cont">
+                                <div class="label">
+                                    <p>Easy to implement</p>
+                                </div>
+                                <div class="circle">
+                                    <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
                                 </div>
                             </div>
-                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-4">Project Completed</h5>
-                        </div>
-                    </div>
-                    <div
-                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-3">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
-                            <div
-                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-3">
-                                <div class="u-container-layout u-valign-middle u-container-layout-6">
-                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-5"
-                                        data-animation-name="counter" data-animation-event="scroll"
-                                        data-animation-duration="3000">98</h3>
+                            <div class="cont">
+                                <div class="label">
+                                    <p>Configurable speed</p>
+                                </div>
+                                <div class="circle">
+                                    <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
                                 </div>
                             </div>
-                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-6">Cups Of Coffee</h5>
-                        </div>
-                    </div>
-                    <div
-                        class="u-align-center u-container-style u-list-item u-palette-1-base u-repeater-item u-shape-rectangle u-list-item-4">
-                        <div class="u-container-layout u-similar-container u-valign-top u-container-layout-7">
-                            <div
-                                class="u-border-4 u-border-white u-container-style u-group u-palette-1-base u-shape-circle u-group-4">
-                                <div class="u-container-layout u-valign-middle u-container-layout-8">
-                                    <h3 class="u-align-center u-text u-text-body-alt-color u-text-default u-text-7"
-                                        data-animation-name="counter" data-animation-event="scroll"
-                                        data-animation-duration="3000">34</h3>
+                            <div class="cont">
+                                <div class="label">
+                                    <p>Timer function</p>
+                                </div>
+                                <div class="circle">
+                                    <div class="counter" data-TargetNum="999" data-Direction="reverse"
+                                        data-Speed="6000">0</div>
                                 </div>
                             </div>
-                            <h5 class="u-text u-text-body-alt-color u-text-default u-text-8">awards</h5>
                         </div>
                     </div>
                 </div>
+
             </div>
-            <p class="u-text u-text-black u-text-default u-text-9">Image by <a
-                    href="https://www.freepik.com/photos/people"
-                    class="u-border-1 u-border-grey-75 u-btn u-button-link u-button-style u-none u-text-body-color u-btn-1"
-                    target="_blank">Freepik</a>
-            </p>
-        </section>
+        </div>
+
+    </main>
 
 
 
-    </section>
 @endsection
 
 @section('script')
