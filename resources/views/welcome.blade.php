@@ -7,7 +7,7 @@
         <div id="carousel">
             <div id="owl-demo" class="owl-carousel owl-theme">
                 <div class="item">
-                    <img class="" src="assets/img/down.jpg" alt="">
+                    <img class="" src="assets/img/first.jpg" alt="">
                     <div class="line">
                         <div class="text hide-s">
                             <div class="line">
