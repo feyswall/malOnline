@@ -92,45 +92,33 @@
   </div>
   <!-- Gallery -->
 
+    <!-- Our Awesome Service -->
+   <!-- Our Awesome Service -->
+   <div id="contact">
+    <div class="">
+        <h2 class="section-title">We serve for you</h2>
 
-        <!-- SERVICES -->
-        <div id="services">
-            <h2 class="section-title">What we do</h2>
-            <div class="line">
-                <div class="s-12 m-12 l-12 ">
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-                        <div class="service-text">
-                            <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
-                            <h3 class="text-down-lg">SURVEILLENCE SYSTEMS INSTALLMENTS</h3>
-                            <p class="text-down-lg">This Include Some High Definition CCTV Cameras  And Monitors That
-                                Make Sure That You Hear And See Everything In Your Surrounding.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-
-                        <div class="service-text">
-                            <h3 class="text-up-md">INDUSTRIAL & BUILDING ELECTRICAL INSTALLATION</h3>
-                            <p class="text-up-md">This Includes All Kind Of Industries And Buildings No Matter How Small
-                                Or Large It Can Get, We Got You.</p>
-                            <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
-                        </div>
-                    </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-
-                        <div class="service-text">
-                            <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
-                            <h3 class="text-down-lg">FIRE CONTROL SYSTEMS INSTALLATION</h3>
-                            <p class="text-down-lg">We Provide All Kind Of Fire Control Systems And Also Give
-                                 counselling To Our Client On How To Better Protect Them Selves When Needed.</p>
-                        </div>
-                    </div>
+        <div class="margin">
+            <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
+                <img src="{{ asset('assets/img/now.jpg') }}" alt="" class="photo-right">
+            </div>
+            <div class="s-12 m-12 l-4">
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
+                </div>
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/service/make.jpg') }}" alt="" class="photo-left">
+                </div>
+                <div class="s-12 m-12 l-7 margin-bottom right-align">
+                    <img src="{{ asset('assets/img/cheche.jpg') }}" alt="" class="photo-up">
                 </div>
             </div>
         </div>
-
-
-
-        
+    </div>
+</div>
     </section>
+@endsection
+
+@section('script')
+    <script src="{{ asset('assets/animate/code.js') }}""></script>
 @endsection
