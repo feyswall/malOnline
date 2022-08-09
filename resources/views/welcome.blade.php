@@ -278,7 +278,7 @@
         </div>
 
         <div id="latest-news">
-            <div class="line">
+            <div class="">
                  <div class="item s-12 m-12 l-12">
                     <img class="" src="assets/img/down.jpg" alt="">
                 </div>  
