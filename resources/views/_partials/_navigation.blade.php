@@ -8,7 +8,7 @@
              <ul class="right">
                  <li class="{{ Route::current()->getName() == '' ? 'active-item' : '' }}"><a href="/">Home</a></li>
                  <li class="{{ Route::current()->getName() == 'features' ? 'active-item' : '' }}"><a
-                         href="{{ route('features') }}">Features</a></li>
+                         href="{{ route('features') }}">Our Team</a></li>
                  <li class="{{ Route::current()->getName() == 'aboutUs' ? 'active-item' : '' }}"><a
                          href="{{ route('aboutUs') }}">About Us</a></li>
                  <li class="{{ Route::current()->getName() == 'ourWork' ? 'active-item' : '' }}"><a

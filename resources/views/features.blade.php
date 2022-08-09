@@ -4,35 +4,34 @@
 @section('content')
     <section>
 
+        <!-- FEATURES -->
         <div id="features">
-            <div class="line mt-5 pt-5">
+            <div class="line">
                 <div class="margin">
+                    <h1 class="text-down-md-2" style="border-radius: 132px;">Our Team</h1>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-tablet icon3x"></i>
-                        <h2>Fully responsive</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill;">
+                        <h2>Mwijuma Anna</h2>
+                        <p>Chief Engineer.</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-isight icon3x"></i>
-                        <h2>Clean design</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat adipiscing.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Zinduna Mjuba</h2>
+                        <p>Electrical Engineer</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-star icon3x"></i>
-                        <h2>Valid code</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna erat volutpat.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Salim Lugenge</h2>
+                        <p>Fire Fighter</p>
                     </div>
                     <div class="s-12 m-6 l-3 margin-bottom">
-                        <i class="icon-heart icon3x"></i>
-                        <h2>Totally free</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt
-                            ut laoreet dolore magna aliquam erat volutpat nonummy.</p>
+                        <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
+                        <h2>Othmani Talimo/h2>
+                            <p>IT Teacher</p>
                     </div>
                 </div>
             </div>
         </div>
+
     </section>
 @endsection
