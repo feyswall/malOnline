@@ -288,7 +288,7 @@
         </div>
 
         <!-- CONTACT -->
-        <div id="contact" class="">
+        {{-- <div id="contact" class="">
             <div class="line">
                 <h2 class="section-title" style="">Contact Us</h2>
                 <div class="margin">
@@ -333,48 +333,43 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
 
 
 
 
         <main class="">
             <div class="container-fluid"
-                style="background: rgb(103,150,35);
-background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%, rgba(140,215,78,1) 94%);">
+                style="background: white">
                 <div class="container hero">
                     <div class="row">
 
-                        <div class="col-md">
-                            <h3 class="text-white">
-                                Our Statics
-                            </h3>
-                            <p>What we achieve up to now</p>
-                        </div>
-                        <div class="col-md">
+                     
+                        <div class="col-md mt-5">
+                            <h4 class="text-center">Our Statistics</h4>
                             <div id="counters_hero">
                                 <div class="cont">
                                     <div class="label">
-                                        <p>Experience</p>
+                                        <p class="text-dark">Experience</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="6" data-Speed="4000">0</div>
+                                        <div class="counter text-dark" data-TargetNum="6" data-Speed="4000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
                                     <div class="label">
-                                        <p>Workers</p>
+                                        <p class="text-dark">Workers</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="30" data-Speed="8000">0</div>
+                                        <div class="counter text-dark" data-TargetNum="30" data-Speed="8000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
                                     <div class="label">
-                                        <p>Clients</p>
+                                        <p class="text-dark">Clients</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="20" data-Direction="normal"
+                                        <div class="counter text-dark" data-TargetNum="20" data-Direction="normal"
                                             data-Speed="6000">0</div>
                                     </div>
                                 </div>
@@ -384,14 +379,6 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
                 </div>
             </div>
         </main>
-        <!-- MAP -->
-        <div id="map-block">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d41102.01981116671!2d39.25804081540041!3d-6.800421757720292!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185c4bae169bd6f1%3A0x940f6b26a086a1dd!2sDar%20es%20Salaam!5e0!3m2!1ssw!2stz!4v1659710759090!5m2!1ssw!2stz"
-                width="100%" height="450" frameborder="0" style="border:0"></iframe>
-        </div>
-
-
     </section>
      <main>
 
