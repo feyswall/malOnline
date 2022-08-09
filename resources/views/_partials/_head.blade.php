@@ -23,13 +23,6 @@
       <!-- for animation -->
       <script src="{{ asset('assets/animate/Oppear_1.1.2.min.js') }}"></script>
 
-      <!-- for counters -->
-      <link rel="stylesheet" href="{{ asset('assets/count/nicepage.css') }}">
-      <link rel="stylesheet" href="{{ asset('assets/count/About-1.css') }}">
-
-      <script class="u-script" type="text/javascript" src="{{ asset('assets/count/nicepage.js') }}"></script>
-
-
-
+      <!-- animated counter -->
       <link href="{{ asset('assets/count/style.css') }}" rel="stylesheet">
       <script type="text/javascript" src="{{ asset('assets/count/multi-animated-counter.js') }}"></script>

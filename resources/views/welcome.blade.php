@@ -69,7 +69,7 @@
                 <p class="text-right-md-2">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh
                     euismod tincidunt ut
                     laoreet dolore magna aliquam erat volutpat.</p>
-                <div class="s-12 m-4 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
+                <div class="s-12 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
             </div>
         </div>
    
