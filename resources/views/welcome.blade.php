@@ -281,12 +281,11 @@
 
         <div id="latest-news">
             <div class="">
-                <div class="item s-12 m-12 l-12">
-                    <img class="" src="assets/img/down.jpg" alt="">
-                </div>
+                 <div class="item s-12 m-12 l-12">
+                    <img class="photo-up" src="assets/img/down.jpg" alt="">
+                </div>  
             </div>
         </div>
-
 
         <!-- CONTACT -->
         <div id="contact" class="">
@@ -297,24 +296,29 @@
                         <img src="assets/img/contact.jpg" alt="">
                     </div>
                     <div class="s-12 m-12 l-4 margin-bottom right-align">
-                        <h3>Vision Design - graphic zoo</h3>
+                        <h3>Location</h3>
                         <address>
-                            <p><strong>Adress:</strong> Gallayova 19, 841 02 Bratislava</p>
-                            <p><strong>Country:</strong> Slovakia - Europe</p>
+                            <p><strong>Adress:</strong> Kariakoo Narung'ombe na Gogo Street.
+                                Plot no 64, Block no 34</p>
+                            <p><strong>Country:</strong> Tanzania - Dar Es Salaam</p>
                             <p><strong>E-mail:</strong> info@visiondesign.sk</p>
                         </address>
                         <br />
-                        <h3>Social</h3>
-                        <p><i class="icon-facebook icon"></i> <a
-                                href="https://www.facebook.com/pages/Vision-Design-graphic-ZOO/154664684553091">Vision
-                                Design - graphic zoo</a></p>
-                        <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/myresponsee">Responsee</a>
-                        </p>
+                        <h3>Contacts & Social</h3>
                         <p class="margin-bottom"><i class="icon-twitter icon"></i> <a
-                                href="https://twitter.com/MyResponsee">Responsee</a></p>
+                            href="https://twitter.com/MyResponsee">Responsee</a>
+                        </p>
+                        <p><i class="icon-facebook icon"></i> <a
+                                href="https://www.facebook.com/pages/Vision-Design-graphic-ZOO/154664684553091">
+                                0678408300</a>
+                        </p>
+                        <p><i class="icon-facebook icon"></i> <a href="https://www.facebook.com/myresponsee">
+                            0765433454 / 0715445507</a>
+                        </p>
+                      
                     </div>
                     <div class="s-12 m-12 l-5">
-                        <h3>Example contact form (do not use)</h3>
+                        <h3>Get in touch</h3>
                         <form class="customform" action="">
                             <div class="s-12"><input name="" placeholder="Your e-mail" title="Your e-mail"
                                     type="text" /></div>
@@ -354,7 +358,7 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
                                         <p>Experience</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="10000" data-Speed="4000">0</div>
+                                        <div class="counter" data-TargetNum="6" data-Speed="4000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
@@ -362,7 +366,7 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
                                         <p>Workers</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="5000" data-Speed="8000">0</div>
+                                        <div class="counter" data-TargetNum="30" data-Speed="8000">0</div>
                                     </div>
                                 </div>
                                 <div class="cont">
@@ -370,7 +374,7 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
                                         <p>Clients</p>
                                     </div>
                                     <div class="circle">
-                                        <div class="counter" data-TargetNum="999" data-Direction="normal"
+                                        <div class="counter" data-TargetNum="20" data-Direction="normal"
                                             data-Speed="6000">0</div>
                                     </div>
                                 </div>
@@ -380,11 +384,6 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
                 </div>
             </div>
         </main>
-
-
-
-
-
         <!-- MAP -->
         <div id="map-block">
             <iframe
@@ -394,6 +393,9 @@ background: linear-gradient(90deg, rgba(103,150,35,1) 0%, rgba(103,150,35,1) 35%
 
 
     </section>
+     <main>
+
+    </main>
 @endsection
 
 @section('script')
