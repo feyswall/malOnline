@@ -1,112 +1,77 @@
-<!-- Remove the container if you want to extend the Footer to full width. -->
-
-    <!-- Footer -->
-    <footer
-            class="text-center text-lg-start text-white"
-            style="background-color: #1c2331"
-            >
-      <!-- Section: Social media -->
-      <section >
-  
-  
-        <!-- Right -->
-        <div>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-google"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-instagram"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-linkedin"></i>
-          </a>
-          <a href="" class="text-white me-4">
-            <i class="fab fa-github"></i>
-          </a>
+<div class="footer-newsletter">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <h4>Company Motor</h4>
+          <p>Your need is our responsibility, together we can make a better future</p>
         </div>
-        <!-- Right -->
-      </section>
-      <!-- Section: Social media -->
-  
-      <!-- Section: Links  -->
-      <section class="">
-        <div class="container text-center text-md-start mt-5">
-          <!-- Grid row -->
-          <div class="row mt-3">
-            <!-- Grid column -->
-            <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
-              <!-- Content -->
-              <h6 class="text-uppercase fw-bold">Company name</h6>
-              <hr
-                  class="mb-4 mt-0 d-inline-block mx-auto"
-                  style="width: 60px; background-color: #7c4dff; height: 2px"
-                  />
-              <p>
-                All of our services are backed by our 100% satisfaction guarantee. Our electricians can install anything from new security lighting for outdoors to a whole home generator that will keep your appliances working during a power outage.
-              </p>
-            </div>
-            <!-- Grid column -->
-  
-
-  
-            <!-- Grid column -->
-            <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-              <!-- Links -->
-              <h6 class="text-uppercase fw-bold">Useful links</h6>
-              <hr
-                  class="mb-4 mt-0 d-inline-block mx-auto"
-                  style="width: 60px; background-color: #7c4dff; height: 2px"
-                  />
-              <p>
-                <a href="#!" class="text-white">RMA Engineering Limited</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">Become an Affiliate</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">Serving for you</a>
-              </p>
-              <p>
-                <a href="#!" class="text-white">Help</a>
-              </p>
-            </div>
-            <!-- Grid column -->
-  
-            <!-- Grid column -->
-            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-              <!-- Links -->
-              <h6 class="text-uppercase fw-bold">Contact</h6>
-              <hr
-                  class="mb-4 mt-0 d-inline-block mx-auto"
-                  style="width: 60px; background-color: #7c4dff; height: 2px"
-                  />
-              <p><i class="fas fa-home mr-3"></i> Dar Es Salaam, Tanzania</p>
-              <p><i class="fas fa-envelope mr-3"></i> rmacontructors@gmail.com</p>
-              <p><i class="fas fa-phone mr-3"></i> + 255 765 433 454</p>
-              <p><i class="fas fa-print mr-3"></i> + 255 715 445 507</p>
-            </div>
-            <!-- Grid column -->
-          </div>
-          <!-- Grid row -->
-        </div>
-      </section>
-      <!-- Section: Links  -->
-  
-      <!-- Copyright -->
-      <div
-           class="text-center p-3"
-           style="background-color: rgba(0, 0, 0, 0.2)"
-           >
-        <small>© 2022 Copyright: theforbins.com</small>
       </div>
-      <!-- Copyright -->
-    </footer>
-    <!-- Footer -->
-  
-  <!-- End of .container -->
+    </div>
+  </div>
+
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Useful Links</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="{{ route("/") }}">Home</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="{{ route("about") }}">About us</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="{{ route("service") }}">Services</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="{{ route("contact") }}">Contacts</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Our Services</h4>
+          <ul>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Supply of stationary and Consumables</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Provision Of Cleaning Services and Gardening</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Money Transfering</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Assist In Company Registration</a></li>
+            <li><i class="bx bx-chevron-right"></i> <a href="#">Tax Consultancy</a></li>
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-contact">
+          <h4>Contact Us</h4>
+          <p>
+            Derm Plaza<br>
+            Makumbusho, Dar Es Salaam<br>
+            Tanzania<br><br>
+            <strong>Phone:</strong> +255 622 799 619  /   +255 742 055 273 <br>
+            <strong>Email:</strong> example@net.com<br>
+          </p>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-info">
+          <h3>About Basmall International Co.LTD</h3>
+          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+          <div class="social-links mt-3">
+            <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="copyright">
+      &copy; Copyright <strong><span>Basmall International Co.Ltd</span></strong>. All Rights Reserved
+    </div>
+    <div class="credits">
+      <!-- All the links in the footer should remain intact. -->
+      <!-- You can delete the links only if you purchased the pro version. -->
+      <!-- Licensing information: https://bootstrapmade.com/license/ -->
+      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+      Designed by <a href="https://theforbins.com/  ">TheForbin</a>
+    </div>
+  </div>

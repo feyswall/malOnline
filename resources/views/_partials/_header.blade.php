@@ -1,14 +1,13 @@
-        
-        <div id="topbar" class="hide-s hide-m">
-            <div class="line">
-               <div class="m-6 l-6 hide-s">
-                  <p>ADDRESS: <strong>P.O.BOX 104635 DSM, KARIAKOO NARUNG’OMBE NA GOGO STREET.</strong></p>
-               </div>
-               <div class="s-12 m-6 l-6">
-                  <div class="social right">
-                     {{-- <a><i class="icon-facebook_circle"></i></a> <a><i class="icon-twitter_circle"></i></a> <a><i class="icon-google_plus_circle"></i></a> <a><i class="icon-instagram_circle"></i></a> --}}
-                  </div>
-               </div>
-            </div>  
-         </div> 
-        @include('_partials._navigation')
+<div class="container d-flex justify-content-between align-items-center">
+
+    <div class="logo">
+      <h1><a href="{{ route("/") }}">BASMALL INTERNATIONAL CO.LTD</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+    </div>
+
+    <nav id="navbar" class="navbar">
+      @include("_partials._navigation")
+    </nav><!-- .navbar -->
+
+  </div>

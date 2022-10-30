@@ -2,154 +2,305 @@
 
 
 @section('content')
-    <section>
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+        <div class="container">
 
+            <ol>
+                <li><a href="{{ route('/') }}">Home</a></li>
+                <li>Services</li>
+            </ol>
+            <h2>Services</h2>
 
-        <!-- Our Awesome Service -->
-        <div id="contact">
-            <div class="">
-                <h2 class="section-title">Our Awesome Services</h2>
+        </div>
+    </section><!-- End Breadcrumbs -->
 
-                <div class="margin">
-                    <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
-                        <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="" class="photo-right">
-                    </div>
-                    <div class="s-12 m-12 l-4">
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
-                        </div>
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/make.jpg') }}" alt="" class="photo-left">
-                        </div>
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="" class="photo-up">
-                        </div>
-                    </div>
+    <!-- ======= Services Section ======= -->
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-title">
+                <h2>Marketing</h2>
+            </div>
+            <div class="row">
+                 <div class="col-lg-6 order-md-last">
+                    <img src="public/assets/marketing_1.webp" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <ul>
+                        <li><i class="bi bi-arrow-right-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.</li>
+                        <li><i class="bi bi-arrow-right-circle text-info"></i> Duis aute irure dolor in reprehenderit in
+                            voluptate velit.
+                        </li>
+                        <li><i class="bi bi-arrow-right-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat. Duis
+                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+                            nulla pariatur.</li>
+                    </ul>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
                 </div>
             </div>
+
         </div>
+    </section><!-- End About Section -->
 
 
-        <div id="our-work">
-            <div class="line">
-                <h2 class="section-title">What We Provide</h2>
-                <div class="tabs">
-                    <div class="tab-item tab-active">
-                        <a class="tab-label active-btn">Electricity</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Consultancy</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/bg1.jpg" alt="" class="t">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Solar Systems Installation</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/por4.jpg" alt="" class="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>AC Services</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/ac.jpg" alt="" class="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Electrical Design</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/por3.jpg" alt="" class="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Fire Control</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Industrial Fire Fighting Systems</h4>
-                                            <p>Full Automated File Fighting Systems.</p>
-                                        </div><img src="assets/img/fire1.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Fire Estinguisher Portable Devices</h4>
-                                            <p>Fire Estinguisher CO<sub>2</sub> Tanks</p>
-                                        </div><img src="assets/img/fire2.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Residential Fire Fighting Systems</h4>
-                                            <p>Fire Fighting System In Your Confort.</p>
-                                        </div><img src="assets/img/fire3.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Water Spreying Devices</h4>
-                                            <p>Auto smoke detectors.</p>
-                                        </div><img src="assets/img/fire4.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Surveillence Systems</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Portable Tablet View</h4>
-                                            <p>CCTV Connected with Your Hand Devices.</p>
-                                        </div><img src="assets/img/sur1.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>WIFI and Wired Cameras</h4>
-                                            <p>To fit your Needs.</p>
-                                        </div><img src="assets/img/sur2.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Hight Definition View</h4>
-                                            <p>Current Generation Lens For Better View.</p>
-                                        </div><img src="assets/img/sur4.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Portable CCTV</h4>
-                                            <p>CCTV That Are Portable and Easy To Use.</p>
-                                        </div><img src="assets/img/sur3.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Training & Consultancy</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Leasons Concern Electricity</h4>
-                                            <p>Our Programs are Under High Care With Good Trained Instructors In
-                                                Electricity.</p>
-                                        </div><img src="assets/img/it3.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Leasons Concerning IT</h4>
-                                            <p>Learn Everything You Need To Know Concerning IT Field.</p>
-                                        </div><img src="assets/img/it4.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="section-title">
+                <h2>Money Transfering</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <ul>
+                        <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+                        <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
+                        </li>
+                        <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
+                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+                            nulla pariatur.</li>
+                    </ul>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
+                </div>
+                <div class="col-lg-6">
+                    <img src="public/assets/moneyTransfer_1.png" class="rounded img-fluid" alt="">
                 </div>
             </div>
-        </div>
 
-    </section>
+        </div>
+    </section><!-- End About Section -->
+
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Provision Of Cleaning Services and Gardening</h2>
+                </div>
+                <div class="col-lg-6">
+                    <img src="public/assets/img/creanOne_1.jpg" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, fugit voluptate pariatur eum
+                        aspernatur, cum porro sit perspiciatis provident quisquam sequi delectus veritatis tenetur ea
+                        suscipit nemo dolor! Earum, dolores ipsum placeat iure dolor accusantium delectus commodi ipsa
+                        doloremque, at voluptatum quia! Aut est earum ullam cupiditate, consequuntur in atque, temporibus
+                        explicabo ducimus ipsa porro illo quo molestiae blanditiis saepe animi veniam rerum voluptatem
+                        mollitia quas architecto odio neque error necessitatibus! Deserunt eveniet velit molestias
+                        reprehenderit, beatae, quisquam explicabo ut assumenda saepe repudiandae architecto commodi animi
+                        quod quis inventore corrupti quidem consequatur sed. Minus tenetur iusto unde exercitationem laborum
+                        qui.</p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End About Section -->
+
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Assist In Company Registration</h2>
+                </div>
+                <div class="col-lg-6">
+                    <img src="public/assets/register.jpg" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <ul>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.</li>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.
+                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere, asperiores libero saepe
+                            aperiam dolores ullam accusamus atque quis repellat veritatis!</li>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat. lorem</li>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.</li>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat.</li>
+                        <li><i class="bi bi-check-circle text-info"></i> Duis aute irure dolor in reprehenderit in voluptate
+                            velit.
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
+                            consequat. Duis
+                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
+                            nulla pariatur.</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End About Section -->
+
+
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Tax Consultancy</h2>
+                </div>
+                  <div class="col-lg-6 order-md-last">
+                    <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi numquam, molestias rerum, pariatur
+                        voluptatum facilis voluptatem non debitis fuga quae odit. Distinctio facere sunt harum autem sint ex
+                        qui facilis voluptatum doloremque, nihil necessitatibus iusto nemo, adipisci laudantium recusandae
+                        reprehenderit veniam. Ad, reprehenderit voluptas. Error cupiditate repellat rem iusto asperiores
+                        obcaecati ipsum, nesciunt veniam placeat quo provident doloremque, in quisquam excepturi saepe
+                        repellendus pariatur velit! Earum, dolorum! Distinctio id eaque omnis saepe placeat mollitia dolore
+                        vel, voluptate quo minima aperiam fugiat fugit odit velit consectetur asperiores porro unde soluta
+                        quam, nihil deleniti nulla necessitatibus possimus officiis. Excepturi ab sed placeat similique
+                        fugit accusantium, incidunt omnis odit culpa perspiciatis quos mollitia aspernatur nihil officiis
+                        obcaecati tenetur. Esse maiores, cumque tempora repellat molestiae iusto ratione suscipit error
+                        doloribus assumenda, saepe repellendus eum rem inventore distinctio sequi laboriosam nam eveniet
+                        quis id sed? Nostrum repudiandae adipisci, soluta repellendus omnis enim. Officia, neque iste!</p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End About Section -->
+
+
+
+    <!-- ======= Our Skills Section ======= -->
+    <section id="skills" class="skills">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Services Status</h2>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="public/assets/service.png" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Supply of stationary and Consumables</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt direna
+                        past reda
+                    </p>
+
+                    <div class="skills-content">
+
+                        <div class="progress">
+                            <span class="skill">Marketing<i class="val">80%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Money Transfering
+                                <i class="val">90%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Provision Of Cleaning Services and Gardening
+                                <i class="val">85%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill">Assist In Company Registration
+                                <i class="val">95%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                        <div class="progress">
+                            <span class="skill"> Tax Consultancy
+                                <i class="val">95%</i></span>
+                            <div class="progress-bar-wrap">
+                                <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0"
+                                    aria-valuemax="100"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Our Skills Section -->
 @endsection

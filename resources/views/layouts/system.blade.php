@@ -1,27 +1,44 @@
+<?php
+use Illuminate\Support\Facades\URL;
+?>
+
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 
 <head>
     @include('_partials._head')
-
 </head>
 
-<body class="size-1140">
-    <!-- PREMIUM FEATURES BUTTON -->
-    <a target="_blank" class="hide-s" href="../template/onepage-premium-template/"
-        style="position:fixed;top:130px;right:-14px;z-index:10;"><img src="img/premium-features.png" alt=""></a>
-    <!-- TOP NAV WITH LOGO -->
+<body>
 
-    @include('_partials._header')
+    <!-- ======= Top Bar ======= -->
+    <section id="topbar" class="d-flex align-items-center">
+        @include('_partials._topBar')
+    </section>
 
-    @yield('content')
-    <!-- FOOTER -->
+    <!-- ======= Header ======= -->
+    <header id="header" class="d-flex align-items-center">
+        @include('_partials._header')
+    </header><!-- End Header -->
 
+    <!-- ======= Hero Section ======= -->
+    @yield('hero')
+
+    <main id="main">
+        @yield('content')
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
         @include('_partials._footer')
+    </footer><!-- End Footer -->
 
-    @include('_partials._script')
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
 
-    @yield('script')
+    @include('_partials._scripts')
+
+    @yield("js")
 </body>
 
 </html>

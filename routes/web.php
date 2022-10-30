@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PagesController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,26 +14,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+Route::get("/", function () {
     return view('welcome');
-});
+})->name("/");
 
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth'])->name('dashboard');
+Route::get("/contacts", [PagesController::class, "getContact"] )->name("contact");
 
+Route::get("/aboutUs", [PagesController::class, "getAbout"])->name("about");
 
-Route::view('/contactUs', 'contactUs')->name('contactUs');
+Route::get("/services", [PagesController::class, "getService"])->name("service");
 
-Route::view('/aboutUs', 'aboutUs')->name('aboutUs');
-
-Route::view('/ourWork', 'ourWork')->name('ourWork');
-
-Route::view('/features', 'features')->name('features');
-
-Route::view('/features', 'features')->name('features');
-
-Route::view('/services', 'services')->name('services');
-
-
-require __DIR__.'/auth.php';

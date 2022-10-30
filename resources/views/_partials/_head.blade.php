@@ -1,28 +1,32 @@
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Responsive One Page website template</title>
+<meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
-          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+  <title>Basmall - Index</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
 
-      <link rel="stylesheet" href="assets/css/components.css">
-      <link rel="stylesheet" href="assets/css/responsee.css">
-      <link rel="stylesheet" href="assets/css/icons.css">
-      <link rel="stylesheet" href="assets/owl-carousel/owl.carousel.css">
-      <link rel="stylesheet" href="assets/owl-carousel/owl.theme.css">
-      <!-- CUSTOM STYLE -->
-      <link rel="stylesheet" href="{{ asset('assets/css/template-style.css') }}">
-      <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,latin-ext'
-          rel='stylesheet' type='text/css'>
+  <!-- Favicons -->
+  <link href="public/assets/img/favicon.png" rel="icon">
+  <link href="public/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
-      <link rel="stylesheet" href="{{ asset('assets/css/custome.css') }}">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-      <script type="text/javascript" src="{{ asset('assets/js/jquery-1.8.3.min.js') }}"></script>
-      <script type="text/javascript" src="{{ asset('assets/js/jquery-ui.min.js') }}"></script>
+  <!-- Vendor CSS Files -->
+  <link href="public/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  
+  <link href="public/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="public/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="public/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-      <!-- for animation -->
-      <script src="{{ asset('assets/animate/Oppear_1.1.2.min.js') }}"></script>
+  <!-- Template Main CSS File -->
+  <link href="public/assets/css/style.css" rel="stylesheet">
 
-      <!-- animated counter -->
-      <link href="{{ asset('assets/count/style.css') }}" rel="stylesheet">
-      <script type="text/javascript" src="{{ asset('assets/count/multi-animated-counter.js') }}"></script>
+  <!-- =======================================================
+  * Template Name: Eterna - v4.9.0
+  * Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->

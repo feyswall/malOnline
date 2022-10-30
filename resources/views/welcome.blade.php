@@ -1,335 +1,329 @@
 @extends('layouts.system')
 
+@section('hero')
+    <section id="hero">
+        <div class="hero-container">
+            <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+                <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+                <div class="carousel-inner" role="listbox">
+
+                    <!-- Slide 1 -->
+                    <div class="carousel-item active" style="background-image: url(public/assets/img/slide/printers.jpg)">
+                        <div class="carousel-container">
+                            <div class="carousel-content">
+                                <h2 class="animate__animated animate__fadeInDown">Welcome to <span
+                                        class="text-warning">Basmall International
+                                        Co.Ltd</span></h2>
+                                <p class="animate__animated animate__fadeInUp">Supply stationary and consumables such as
+                                    printers, Staplers, Punching machines, Sticky Tapes, Scissors, Desk Tidy, Pen Cups, Note
+                                    Holders, Paper clips, etc.</p>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Slide 2 -->
+                    <div class="carousel-item" style="background-image: url(public/assets/img/slide/creaning.jpg)">
+                        <div class="carousel-container">
+                            <div class="carousel-content">
+                                <h2 class="animate__animated fanimate__adeInDown">Our <span
+                                        class="text-warning">Highest Consideration</span></h2>
+                                <p class="animate__animated animate__fadeInUp">
+                                    We respect our customers and we guarantee to provide the outer most desired services.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Slide 3 -->
+                    <div class="carousel-item" style="background-image: url(public/assets/img/slide/slide-3.jpg)">
+                        <div class="carousel-container">
+                            <div class="carousel-content">
+                                <h2 class="animate__animated animate__fadeInDown">We are <span class="text-warning">at your
+                                        service</span></h2>
+                                <p class="animate__animated animate__fadeInUp">At Basmall International Co Ltd we provide
+                                    Assistance in company registration and Tax consultancy so that you can do your business
+                                    efficiently and more confident.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+                </a>
+
+                <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+                    <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+                </a>
+
+            </div>
+        </div>
+    </section><!-- End Hero -->
+@endsection
 
 @section('content')
-    <section>
-        <!-- CAROUSEL -->
-        <div id="carousel">
-            <div id="owl-demo" class="owl-carousel owl-theme">
-                <div class="item">
-                    <img class="" src="assets/img/first.jpg" alt="">
-                    <div class="line">
-                        <div class="text hide-s">
-                            <div class="line">
-                                <div class="prev-arrow hide-s hide-m">
-                                    <i class="icon-chevron_left"></i>
-                                </div>
-                                <div class="next-arrow hide-s hide-m">
-                                    <i class="icon-chevron_right"></i>
-                                </div>
-                            </div>
-                            <h2>We are the Current best Specialist</h2>
-                            <p>Do you Need Help
-                                With Electrical
-                                Maintenance or electrical devices?</p>
-                        </div>
+    <!-- ======= Featured Section ======= -->
+    <section id="featured" class="featured">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="icon-box">
+                        <i class="bi bi-card-checklist text-warning"></i>
+                        <h3><a href="">Mission</a></h3>
+                        <p>To deliver goods and services to our client at high quality
+                            and honestly.
+                        </p>
                     </div>
                 </div>
-                <div class="item">
-                    <img src="assets/img/second.jpg" alt="" style="object-fit: fill">
-                    <div class="line">
-                        <div class="text hide-s">
-                            <div class="line">
-                                <div class="prev-arrow hide-s hide-m">
-                                    <i class="icon-chevron_left"></i>
-                                </div>
-                                <div class="next-arrow hide-s hide-m">
-                                    <i class="icon-chevron_right"></i>
-                                </div>
-                            </div>
-                            <h2> We Have The Best Electrical Service for your</h2>
-                            <p>We are here to Help you In Any Way We can.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="item">
-                    <img src="assets/img/third.jpg" alt="">
-                    <div class="line">
-                        <div class="text hide-s">
-                            <div class="line">
-                                <div class="prev-arrow hide-s hide-m">
-                                    <i class="icon-chevron_left"></i>
-                                </div>
-                                <div class="next-arrow hide-s hide-m">
-                                    <i class="icon-chevron_right"></i>
-                                </div>
-                            </div>
-                            <h2>Best Electrical Service for your!</h2>
-                            <p>We Provide Best Services, For Your Best Future</p>
-                        </div>
+                <div class="col-lg-6 mt-4 mt-lg-0">
+                    <div class="icon-box">
+                        <i class="bi bi-bar-chart text-warning"></i>
+                        <h3><a href="">Vision</a></h3>
+                        <p>Aimed to bringing benefits and Implovements to the organization in the future</p>
+  
                     </div>
                 </div>
             </div>
-        </div>
-        <!-- FIRST BLOCK -->
-        <div id="first-block">
-            <div class="line">
-                <h1 class="text-left-md-2">Fire Control System Installation</h1>
-                <p class="text-right-md-2">
-                    We Provide Fire Safety Systems, which responds to our customer needs, We continue to
-                    provide first quality services and products to its customers....
-                </p>
-                <div class="s-12 l-2 center text-left-md-2"><a class="white-btn" href="#contact">Contact Us</a></div>
-            </div>
-        </div>
 
+        </div>
+    </section><!-- End Featured Section -->
 
-        <!-- ABOUT US -->
-        <div id="about-us">
-            <div class="s-12 m-12 l-6 media-container">
-                <img class="example1" src="assets/img/about.jpg" alt="">
-            </div>
-            <article class="s-12 m-12 l-6">
-                <h2 class="text-down-lg">Do you Need Help<br> File Control<br> Systems?</h2>
-                <p class="text-down-md">
-                    We Provide Fire Safety Systems, which respond to our customer's needs, We continue to
-                    provide first-quality services and products to our customers. Our company Guarantee your
-                    Safety By Providing Sustaining Devices And Well-Trained Technicians
-                </p>
-                <div class="about-us-icons">
-                    <i class="icon-paperplane_ico"></i> <i class="icon-trophy"></i> <i class="icon-clock"></i>
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="public/assets/Basmall.png" class="rounded img-fluid" alt="">
                 </div>
-            </article>
-        </div>
-        <!-- OUR WORK -->
-        <div id="our-work">
-            <div class="line">
-                <h2 class="section-title">What We Provide</h2>
-                <div class="tabs">
-                    <div class="tab-item tab-active">
-                        <a class="tab-label active-btn">Electricity</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Consultancy</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/bg1.jpg" alt="" class="t">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Solar Systems Installation</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/por4.jpg" alt="" class="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>AC Services</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/ac.jpg" alt="" class="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Electrical Design</h4>
-                                            {{-- <p>Laoreet dolore magna aliquam erat volutpat.</p> --}}
-                                        </div><img src="assets/img/por3.jpg" alt="" class="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Fire Control</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Industrial Fire Fighting Systems</h4>
-                                            <p>Full Automated File Fighting Systems.</p>
-                                        </div><img src="assets/img/fire1.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Fire Estinguisher Portable Devices</h4>
-                                            <p>Fire Estinguisher CO<sub>2</sub> Tanks</p>
-                                        </div><img src="assets/img/fire2.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Residential Fire Fighting Systems</h4>
-                                            <p>Fire Fighting System In Your Confort.</p>
-                                        </div><img src="assets/img/fire3.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Water Spreying Devices</h4>
-                                            <p>Auto smoke detectors.</p>
-                                        </div><img src="assets/img/fire4.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Surveillence Systems</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Portable Tablet View</h4>
-                                            <p>CCTV Connected with Your Hand Devices.</p>
-                                        </div><img src="assets/img/sur1.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>WIFI and Wired Cameras</h4>
-                                            <p>To fit your Needs.</p>
-                                        </div><img src="assets/img/sur2.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Hight Definition View</h4>
-                                            <p>Current Generation Lens For Better View.</p>
-                                        </div><img src="assets/img/sur4.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-3"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Portable CCTV</h4>
-                                            <p>CCTV That Are Portable and Easy To Use.</p>
-                                        </div><img src="assets/img/sur3.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-item">
-                        <a class="tab-label">Training & Consultancy</a>
-                        <div class="tab-content">
-                            <div class="margin">
-                                <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Leasons Concern Electricity</h4>
-                                            <p>Our Programs are Under High Care With Good Trained Instructors In Electricity.</p>
-                                        </div><img src="assets/img/it3.jpg" alt="">
-                                    </a></div>
-                                <div class="s-12 m-6 l-6"><a class="our-work-container lightbox margin-bottom">
-                                        <div class="our-work-text">
-                                            <h4>Leasons Concerning IT</h4>
-                                            <p>Learn Everything You Need To Know Concerning IT Field.</p>
-                                        </div><img src="assets/img/it4.jpg" alt="">
-                                    </a></div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
+                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
+                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
+                        et quidem nulla.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
+                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
+                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
+                        et quidem nulla.
+                    </p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
                 </div>
             </div>
+
         </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+        <div class="container">
+            <div class="section-title">
+                <h2>Our Services</h2>
+                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
+                    consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
+                    sit in iste officiis commodi quidem hic quas.</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bx-book"></i></div>
+                            <h4>Supply of stationary and Consumables</h4>
+                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bx-building-house"></i></div>
+                            <h4><a href="">Provision Of Cleaning Services and Gardening</a></h4>
+                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bx-money"></i></div>
+                            <h4><a href="">Money Transfering</a></h4>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bxs-dollar-circle"></i></div>
+                            <h4><a href="">Marketing</a></h4>
+                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bxs-certification"></i></div>
+                            <h4><a href="">Assist In Company Registration</a></h4>
+                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <div class="icon-box">
+                        <a href="{{ route('/') }}">
+                            <div class="icon"><i class="bx bx-money-withdraw"></i></div>
+                            <h4><a href="">Tax Consultancy</a></h4>
+                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Services Section -->
 
 
-        <!-- SERVICES -->
-        <div id="services">
-            <h2 class="section-title">What we do</h2>
-            <div class="line">
-                <div class="s-12 m-12 l-12 ">
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
-                        <div class="service-text">
-                            <img src="assets/img/umeme/one.jpg" alt="" class="photo-right">
-                            <h3 class="text-down-lg">SURVEILLENCE SYSTEMS INSTALLMENTS</h3>
-                            <p class="text-down-lg">This Include Some High Definition CCTV Cameras  And Monitors That
-                                Make Sure That You Hear And See Everything In Your Surrounding.
+
+
+
+    <!-- NOTES
+
+                        using this as a staring point to experiment with some bootstrap parallax effects.
+
+                        http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
+
+                        -->
+
+    <!-- Section 1 -->
+    <section id="section1" data-speed="8" data-type="background">
+        <div class="container d-flex align-content-center">
+            <!-- ======= Testimonials Section ======= -->
+            <section id="testimonials" class="testimonials">
+                <div class="row mt-5">
+                    <div class="col-lg-6">
+                        <div class="testimonial-item">
+                            <img src="public/assets/face.jpg" class="testimonial-img" alt="">
+                            <h3>Matondo Mpakanjia</h3>
+                            <h4>Chief &amp; Marketer</h4>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
+                                Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                             </p>
                         </div>
                     </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
 
-                        <div class="service-text">
-                            <h3 class="text-up-md">INDUSTRIAL & BUILDING ELECTRICAL INSTALLATION</h3>
-                            <p class="text-up-md">This Includes All Kind Of Industries And Buildings No Matter How Small
-                                Or Large It Can Get, We Got You.</p>
-                            <img src="assets/img/umeme/two.jpg" alt="" class="photo-down">
+                    <div class="col-lg-6">
+                        <div class="testimonial-item mt-4 mt-lg-0">
+                            <img src="public/assets/face.jpg" class="testimonial-img" alt="">
+                            <h3>Isaya Mwalukasa</h3>
+                            <h4>Proffesional Noise Maker</h4>
+                            <p>
+                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum
+                                eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim
+                                culpa.
+                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                            </p>
                         </div>
                     </div>
-                    <div class="s-12 m-12 l-3 margin-bottom mr-is-20">
 
-                        <div class="service-text">
-                            <img src="assets/img/umeme/three.jpg" alt="" class="photo-left">
-                            <h3 class="text-down-lg">FIRE CONTROL SYSTEMS INSTALLATION</h3>
-                            <p class="text-down-lg">We Provide All Kind Of Fire Control Systems And Also Give
-                                 counselling To Our Client On How To Better Protect Them Selves When Needed.</p>
-                        </div>
-                    </div>
                 </div>
-            </div>
+            </section><!-- End Testimonials Section -->
         </div>
-
-
-
-        <!-- Our Awesome Service -->
-        <div id="contact">
-            <div class="">
-                <h2 class="section-title">Our Awesome Services</h2>
-
-                <div class="margin">
-                    <div class="s-12 m-12 l-8 margin-bottom margin-right right-align">
-                        <img src="{{ asset('assets/img/service/serList.jpg') }}" alt="" class="photo-right">
-                    </div>
-                    <div class="s-12 m-12 l-4">
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/111.jpg') }}" alt="" class="photo-down">
-                        </div>
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/make.jpg') }}" alt="" class="photo-left">
-                        </div>
-                        <div class="s-12 m-12 l-7 margin-bottom right-align">
-                            <img src="{{ asset('assets/img/service/ele.jpg') }}" alt="" class="photo-up">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div id="latest-news">
-            <div class="">
-                <div class="item s-12 m-12 l-12">
-                    <img class="photo-up" src="assets/img/down.jpg" alt="">
-                </div>
-            </div>
-        </div>
-
-        <main class="">
-            <div class="container-fluid"
-                style="background: white">
-                <div class="container hero">
-                    <div class="row">
-
-                     
-                        <div class="col-md mt-5">
-                            <h4 class="text-center">Our Statistics</h4>
-                            <div id="counters_hero">
-                                <div class="cont">
-                                    <div class="label">
-                                        <p class="text-dark">Experience</p>
-                                    </div>
-                                    <div class="circle">
-                                        <div class="counter text-dark" data-TargetNum="6" data-Speed="4000">0</div>
-                                    </div>
-                                </div>
-                                <div class="cont">
-                                    <div class="label">
-                                        <p class="text-dark">Workers</p>
-                                    </div>
-                                    <div class="circle">
-                                        <div class="counter text-dark" data-TargetNum="30" data-Speed="8000">0</div>
-                                    </div>
-                                </div>
-                                <div class="cont">
-                                    <div class="label">
-                                        <p class="text-dark">Clients</p>
-                                    </div>
-                                    <div class="circle">
-                                        <div class="counter text-dark" data-TargetNum="20" data-Direction="normal"
-                                            data-Speed="6000">0</div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </main>
     </section>
-    <main>
+    <!-- Section 2 -->
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about mt-5">
+        <div class="container">
 
-    </main>
-@endsection
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="public/assets/Basmall.png" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <p class="fst-italic">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+                        et dolore
+                        magna aliqua.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
+                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
+                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
+                        et quidem nulla.
+                    </p>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
+                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
+                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
+                        et quidem nulla.
+                    </p>
+                    <p>
+                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+                        voluptate
+                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+                        sunt in
+                        culpa qui officia deserunt mollit anim id est laborum
+                    </p>
+                </div>
+            </div>
 
-@section('script')
-    <script src="{{ asset('assets/animate/code.js') }}""></script>
+        </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <!--      <section id="clients" class="clients">
+                                        <div class="container">
+
+                                          <div class="section-title">
+                                            <h2>Clients</h2>
+                                            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+                                          </div>
+
+                                          <div class="clients-slider swiper">
+                                            <div class="swiper-wrapper align-items-center">
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
+                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+                                            </div>
+                                            <div class="swiper-pagination"></div>
+                                          </div>
+
+                                        </div>
+                                      </section> -->
+    <!-- End Clients Section -->
 @endsection
