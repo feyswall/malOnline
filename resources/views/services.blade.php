@@ -171,7 +171,7 @@
 
 
 
-    <!-- ======= About Section ======= -->
+    <!-- ======= Pay Consultancy ======= -->
     <section id="about" class="about">
         <div class="container">
             <div class="row">
@@ -182,7 +182,7 @@
                     <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Pay Tax The Right Way with The Help Basmall International.</h3>
+                    <h3>Pay Tax The Right Way with The Help Of Basmall International.</h3>
                     <p class="fst-italic">
                         For the benefit of our country and our businesses, we are all required to pay tax, and Basmall International as advises we provide guides to our clients on tax-related matters.
                     </p>
@@ -194,7 +194,74 @@
             </div>
 
         </div>
-    </section><!-- End About Section -->
+    </section><!-- ====== Pay Consultancy ====== -->
+
+
+    <!-- ======= Installation and supply of ICT equipments ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Installation and supply of ICT equipments</h2>
+                </div>
+                <div class="col-lg-6 order-md-last">
+                    <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3>Pay Tax The Right Way with The Help Basmall International.</h3>
+                    <p class="fst-italic">
+                        We install all ICT equipment, both for schools, individuals, and organizations. We also provide the expert advice essential to making sure that you get the right ICT equipment
+                    </p>
+                    <p>
+                        This is especially important in the current economic climate where many 'box shifters' supply inappropriate or sub-standard ICT equipment under the guise of cost savings!
+                        Alongside our on-site and remote ICT support services, we also provide equipment setup services.
+                    </p>
+                    <p>
+                        This involves delivery to the site, unboxing, and initial setup of the hardware that we supply. That way, you can be certain that everything is working  before us leaving the site.
+                        This also means that the limited time your technician spends on site is not taken away from more essential maintenance.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- ====== Pay Consultancy ====== -->
+
+
+
+    <!-- ======= Pay Consultancy ======= -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="row">
+                <div class="section-title">
+                    <h2>Supply of stationary and Consumables</h2>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 content">
+                    <h3> Every office work is performed with the help of office stationery and forms.</h3>
+                    <p class="fst-italic">
+                        These are also known as “Office Supplies".
+                    </p>
+                    <p>
+                        In modern office, computer is also used to reduce the need and importance of office stationery and forms.
+                        Even though, office supplies are treated as an integral part of any office organization.
+                    </p>
+                    <p>
+                        There is no possibility of elimination of 100 percent office stationery and forms by the application of computers. To be aware
+                        of this Basmall International also provide a supply of this consumables
+                    </p>
+                    <p>
+                        These includes paper, envelope, latter heads, paper pads, printed forms, rubber,
+                        carbon papers, ink, stencil, typewriter ribbons, pencils, correcting fluid, pens, gums,
+                        stamp pad, pins, duplicating paper, paper weight, file covers, duplicating ink, tag, clips,
+                        sealing wax, glue, and the like.
+                    </p>
+                </div>
+                <div class="col-lg-6 order-md-last">
+                    <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
+                </div>
+            </div>
+
+        </div>
+    </section><!-- ====== Pay Consultancy ====== -->
 
 
 
