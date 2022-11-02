@@ -56,6 +56,9 @@
                 <h2>Money Transfering</h2>
             </div>
             <div class="row">
+                <div class="col-lg-6 order-md-last  align-self-center">
+                    <img src="public/assets/moneyTransfer_1.png" class="rounded img-fluid" alt="">
+                </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                     <h3>Find the best people that can transfer your money safe in time.</h3>
                     <p class="fst-italic">
@@ -92,9 +95,6 @@
                         Therefore, when you choose our services to transfer money, irrespective of which country you are from or which
                         currency you are using, you can be assured that your money is safe and will reach your family when they need it the most.
                     </p>
-                </div>
-                <div class="col-lg-6 align-self-center">
-                    <img src="public/assets/moneyTransfer_1.png" class="rounded img-fluid" alt="">
                 </div>
             </div>
 
