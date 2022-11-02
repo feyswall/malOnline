@@ -154,7 +154,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-book"></i></div>
                             <h4>Supply of stationary and Consumables</h4>
                             <p>Pay Tax The Right Way with The Help Basmall International.</p>
@@ -164,17 +164,17 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-building-house"></i></div>
                             <h4><a href="">Provision Of Cleaning Services and Gardening</a></h4>
-                            <p>>Clean office In always a number one thing any professionals must have.</p>
+                            <p>Clean office In always a number one thing any professionals must have.</p>
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-money"></i></div>
                             <h4><a href="">Money Transfering</a></h4>
                             <p>Find the best people that can transfer your money safe in time.</p>
@@ -184,7 +184,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bxs-dollar-circle"></i></div>
                             <h4><a href="">Marketing</a></h4>
                             <p>Why is marketing is so Important and a core part of any business</p>
@@ -194,7 +194,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bxs-certification"></i></div>
                             <h4><a href="">Assist In Company Registration</a></h4>
                             <p>We provide Answers to the Questions of many business starters.</p>
@@ -204,7 +204,7 @@
 
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                     <div class="icon-box">
-                        <a href="{{ route('/') }}">
+                        <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-money-withdraw"></i></div>
                             <h4><a href="">Tax Consultancy</a></h4>
                             <p>Pay Tax The Right Way with The Help Of Basmall International.</p>
