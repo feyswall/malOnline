@@ -205,7 +205,7 @@
                     <h2>Installation and supply of ICT equipments</h2>
                 </div>
                 <div class="col-lg-6 order-md-last">
-                    <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
+                    <img src="public/assets/ICT.webp" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                     <h3>Pay Tax The Right Way with The Help Basmall International.</h3>
