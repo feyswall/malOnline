@@ -93,7 +93,7 @@
                         currency you are using, you can be assured that your money is safe and will reach your family when they need it the most.
                     </p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 align-self-center">
                     <img src="public/assets/moneyTransfer_1.png" class="rounded img-fluid" alt="">
                 </div>
             </div>

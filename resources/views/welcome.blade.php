@@ -218,58 +218,6 @@
     </section><!-- End Services Section -->
 
 
-
-
-
-    <!-- NOTES
-
-                        using this as a staring point to experiment with some bootstrap parallax effects.
-
-                        http://untame.net/2013/04/how-to-integrate-simple-parallax-with-twitter-bootstrap/
-
-                        -->
-
-    <!-- Section 1 -->
-    <section id="section1" data-speed="8" data-type="background">
-        <div class="container d-flex align-content-center">
-            <!-- ======= Testimonials Section ======= -->
-            <section id="testimonials" class="testimonials">
-                <div class="row mt-5">
-                    <div class="col-lg-6">
-                        <div class="testimonial-item">
-                            <img src="public/assets/face.jpg" class="testimonial-img" alt="">
-                            <h3>Matondo Mpakanjia</h3>
-                            <h4>Chief &amp; Marketer</h4>
-                            <p>
-                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
-                                Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                            </p>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-6">
-                        <div class="testimonial-item mt-4 mt-lg-0">
-                            <img src="public/assets/face.jpg" class="testimonial-img" alt="">
-                            <h3>Isaya Mwalukasa</h3>
-                            <h4>Proffesional Noise Maker</h4>
-                            <p>
-                                <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum
-                                eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim
-                                culpa.
-                                <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                            </p>
-                        </div>
-                    </div>
-
-                </div>
-            </section><!-- End Testimonials Section -->
-        </div>
-    </section>
-    <!-- Section 2 -->
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about" class="pt-3">
         <div class="container mt-3 pt-3">
@@ -299,30 +247,19 @@
         </div>
     </section><!-- End About Section -->
 
+
+    <div class="row justify-content-center mb-sm-2 mb-md-5">
+        <div class="section-title">
+            <h2>Our Location</h2>
+        </div>
+        <div class="col-lg-9 col-sm-12">
+            <iframe class="mb-4 mb-lg-0"
+                    src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3961.941770205721!2d39.24351036517153!3d-6.776942068158643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sderm%20plaza!5e0!3m2!1ssw!2stz!4v1665165831055!5m2!1ssw!2stz"
+                    frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+        </div>
+    </div>
     <!-- ======= Clients Section ======= -->
-    <!--      <section id="clients" class="clients">
-                                        <div class="container">
 
-                                          <div class="section-title">
-                                            <h2>Clients</h2>
-                                            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-                                          </div>
 
-                                          <div class="clients-slider swiper">
-                                            <div class="swiper-wrapper align-items-center">
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-1.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-2.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-3.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-4.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-5.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
-                                              <div class="swiper-slide"><img src="public/assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
-                                            </div>
-                                            <div class="swiper-pagination"></div>
-                                          </div>
-
-                                        </div>
-                                      </section> -->
     <!-- End Clients Section -->
 @endsection

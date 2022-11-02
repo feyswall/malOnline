@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
-          <h4>Company Motor</h4>
+          <h4>Company Motto</h4>
           <p>Your need is our responsibility, together we can make a better future</p>
         </div>
       </div>
