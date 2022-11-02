@@ -235,6 +235,9 @@
                 <div class="section-title">
                     <h2>Supply of stationary and Consumables</h2>
                 </div>
+                <div class="col-lg-6">
+                    <img src="public/assets/img/slide/printers.jpg" class="rounded img-fluid" alt="">
+                </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                     <h3> Every office work is performed with the help of office stationery and forms.</h3>
                     <p class="fst-italic">
@@ -254,9 +257,6 @@
                         stamp pad, pins, duplicating paper, paper weight, file covers, duplicating ink, tag, clips,
                         sealing wax, glue, and the like.
                     </p>
-                </div>
-                <div class="col-lg-6 order-md-last">
-                    <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
                 </div>
             </div>
 

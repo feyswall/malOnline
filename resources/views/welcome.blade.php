@@ -85,7 +85,7 @@
                         <i class="bi bi-bar-chart text-warning"></i>
                         <h3><a href="">Vision</a></h3>
                         <p>Aimed to bringing benefits and Implovements to the organization in the future</p>
-  
+
                     </div>
                 </div>
             </div>
@@ -96,37 +96,49 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
         <div class="container">
-
+            <div class="section-title">
+                <h2>Money Transfering</h2>
+            </div>
             <div class="row">
-                <div class="col-lg-6">
-                    <img src="public/assets/Basmall.png" class="rounded img-fluid" alt="">
-                </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>Find the best people that can transfer your money safe in time.</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        We know you have dreams, and you are working towards making those dreams come true
+                    </p>
+
+                    <p>
+                        But working hard is nothing if you can not secure your money properly, and that's where Basmall International comes in role.
+                        At Basmall International, we want to be a part of your dream “ whether it is to start a business or build your dream house
+                        send your children to the best schools or keep your family in good health
+                        by offering you a convenient way to send money back home, or anywhere you desire with very little cost.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
-                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
-                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
-                        et quidem nulla.
+                        We are humbled that we have been
+                        instrumental in helping millions of people realize their dreams, for nearly two decades now.
                     </p>
+
+                    <ul>
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            INSTANT TRANSFERS: With our robust technology, your money is transferred instantly across the globe
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i>CONVENIENCE: We equip you to send money the way you want - to a Bank Account, to be picked up in Cash,
+                            to a Mobile Wallet or get Cash delivered to your Doorstep.
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            AFFORDABLE: We want to help you save more on your money transfers and that’s why we offer low transfer fees and great exchange rates.
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            SECURE: Our state-of-the-art technology and robust compliance process ensure that your money moves safely from one place to another.
+                            .</li>
+                    </ul>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
-                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
-                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
-                        et quidem nulla.
+                        We at Basmall International are committed to operating with integrity, within the scope of the law, and with security.
+                        Therefore, when you choose our services to transfer money, irrespective of which country you are from or which
+                        currency you are using, you can be assured that your money is safe and will reach your family when they need it the most.
                     </p>
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
-                    </p>
+                </div>
+                <div class="col-lg-6">
+                    <img src="public/assets/moneyTransfer_1.png" class="rounded img-fluid" alt="">
                 </div>
             </div>
 
@@ -138,9 +150,6 @@
         <div class="container">
             <div class="section-title">
                 <h2>Our Services</h2>
-                <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-                    consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat
-                    sit in iste officiis commodi quidem hic quas.</p>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
@@ -148,7 +157,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bx-book"></i></div>
                             <h4>Supply of stationary and Consumables</h4>
-                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                            <p>Pay Tax The Right Way with The Help Basmall International.</p>
                         </a>
                     </div>
                 </div>
@@ -158,7 +167,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bx-building-house"></i></div>
                             <h4><a href="">Provision Of Cleaning Services and Gardening</a></h4>
-                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                            <p>>Clean office In always a number one thing any professionals must have.</p>
                         </a>
                     </div>
                 </div>
@@ -168,7 +177,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bx-money"></i></div>
                             <h4><a href="">Money Transfering</a></h4>
-                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                            <p>Find the best people that can transfer your money safe in time.</p>
                         </a>
                     </div>
                 </div>
@@ -178,7 +187,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bxs-dollar-circle"></i></div>
                             <h4><a href="">Marketing</a></h4>
-                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                            <p>Why is marketing is so Important and a core part of any business</p>
                         </a>
                     </div>
                 </div>
@@ -188,7 +197,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bxs-certification"></i></div>
                             <h4><a href="">Assist In Company Registration</a></h4>
-                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                            <p>We provide Answers to the Questions of many business starters.</p>
                         </a>
                     </div>
                 </div>
@@ -198,7 +207,7 @@
                         <a href="{{ route('/') }}">
                             <div class="icon"><i class="bx bx-money-withdraw"></i></div>
                             <h4><a href="">Tax Consultancy</a></h4>
-                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                            <p>Pay Tax The Right Way with The Help Of Basmall International.</p>
                         </a>
                     </div>
                 </div>
@@ -260,39 +269,29 @@
         </div>
     </section>
     <!-- Section 2 -->
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about mt-5">
-        <div class="container">
 
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about" class="pt-3">
+        <div class="container mt-3 pt-3">
             <div class="row">
+                <div class="section-title">
+                    <h2>Assist In Company Registration</h2>
+                </div>
                 <div class="col-lg-6">
-                    <img src="public/assets/Basmall.png" class="rounded img-fluid" alt="">
+                    <img src="public/assets/register.jpg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>We provide Answers to the Questions of many business starters.</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        the next question is How to Register a company. Which one should I choose? Sole Proprietary,
+                        Partnership, Private Limited Company, One Person Company, Limited Liability Partnership, or Public Limited Company.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
-                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
-                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
-                        et quidem nulla.
+                        All new businesses coming up would find it helpful to get the details of how to get the company registered as a public/private limited.
+                        Here are the steps for your reference.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci possimus necessitatibus.
-                        Ea laborum delectus ipsa distinctio blanditiis officiis nesciunt quod sequi voluptatum. Numquam
-                        tempore quae dolorem deserunt ducimus eum minus deleniti incidunt facilis! Dolorem quisquam quaerat
-                        et quidem nulla.
-                    </p>
-                    <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                        That's why at Basmall International, with our help we guarantee that registering your process will have no less than eating a piece of cake, with the help of highly experienced members.
                     </p>
                 </div>
             </div>

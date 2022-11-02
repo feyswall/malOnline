@@ -42,7 +42,7 @@
             Makumbusho, Dar Es Salaam<br>
             Tanzania<br><br>
             <strong>Phone:</strong> +255 622 799 619  /   +255 742 055 273 <br>
-            <strong>Email:</strong> example@net.com<br>
+            <strong>Email:</strong>  info@basmallinternational.co.tz<br>
           </p>
 
         </div>
@@ -51,11 +51,7 @@
           <h3>About Basmall International Co.LTD</h3>
           <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
           <div class="social-links mt-3">
-            <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-            <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-            <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
+
           </div>
         </div>
 
@@ -68,10 +64,7 @@
       &copy; Copyright <strong><span>Basmall International Co.Ltd</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
-      <!-- All the links in the footer should remain intact. -->
-      <!-- You can delete the links only if you purchased the pro version. -->
-      <!-- Licensing information: https://bootstrapmade.com/license/ -->
-      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/ -->
+
       Designed by <a href="https://theforbins.com/  ">TheForbin</a>
     </div>
   </div>
