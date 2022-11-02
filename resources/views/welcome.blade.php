@@ -166,7 +166,7 @@
                     <div class="icon-box">
                         <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-building-house"></i></div>
-                            <h4><a href="">Provision Of Cleaning Services and Gardening</a></h4>
+                            <h4><a href="{{ route('service') }}">Provision Of Cleaning Services and Gardening</a></h4>
                             <p>Clean office In always a number one thing any professionals must have.</p>
                         </a>
                     </div>
@@ -176,7 +176,7 @@
                     <div class="icon-box">
                         <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-money"></i></div>
-                            <h4><a href="">Money Transfering</a></h4>
+                            <h4><a href="{{ route('service') }}">Money Transfering</a></h4>
                             <p>Find the best people that can transfer your money safe in time.</p>
                         </a>
                     </div>
@@ -186,7 +186,7 @@
                     <div class="icon-box">
                         <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bxs-dollar-circle"></i></div>
-                            <h4><a href="">Marketing</a></h4>
+                            <h4><a href="{{ route('service') }}">Marketing</a></h4>
                             <p>Why is marketing is so Important and a core part of any business</p>
                         </a>
                     </div>
@@ -196,7 +196,7 @@
                     <div class="icon-box">
                         <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bxs-certification"></i></div>
-                            <h4><a href="">Assist In Company Registration</a></h4>
+                            <h4><a href="{{ route('service') }}">Assist In Company Registration</a></h4>
                             <p>We provide Answers to the Questions of many business starters.</p>
                         </a>
                     </div>
@@ -206,7 +206,7 @@
                     <div class="icon-box">
                         <a href="{{ route('service') }}">
                             <div class="icon"><i class="bx bx-money-withdraw"></i></div>
-                            <h4><a href="">Tax Consultancy</a></h4>
+                            <h4><a href="{{ route('service') }}">Tax Consultancy</a></h4>
                             <p>Pay Tax The Right Way with The Help Of Basmall International.</p>
                         </a>
                     </div>
