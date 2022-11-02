@@ -28,29 +28,19 @@
                     <img src="public/assets/marketing_1.webp" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>Why is marketing is so Important and a core part of any business</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        With our experience and years of research, we found out that one of the most significant challenges in marketing is bringing its goals in line with sales and changing the perception
+                        that it is a cost center into a revenue center.
                     </p>
-                    <ul>
-                        <li><i class="bi bi-arrow-right-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="bi bi-arrow-right-circle text-info"></i> Duis aute irure dolor in reprehenderit in
-                            voluptate velit.
-                        </li>
-                        <li><i class="bi bi-arrow-right-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis
-                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
-                            nulla pariatur.</li>
-                    </ul>
+
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                        That’s where marketing can help you align your sales and marketing strategies and agree on areas of mutual accountability. Our company provides some best people with the best strategies
+                        that can work with your Sales and Marketing teams to make sure you’re identifying your most valuable leads to give you a bespoke
+                        lead-nurturing strategy to bring you better Sales Qualified Leads and drive conversion, all while remaining cost-effective.
+                    </p>
+                    <p>
+                        Through our company analysis and consulting, we design and execute high-impact strategies to create growth in your <company class=""></company>
                     </p>
                 </div>
             </div>
@@ -67,26 +57,40 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>Find the best people that can transfer your money safe in time.</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        We know you have dreams, and you are working towards making those dreams come true
                     </p>
+
+                    <p>
+                        But working hard is nothing if you can not secure your money properly, and that's where Basmall International comes in role.
+                        At Basmall International, we want to be a part of your dream “ whether it is to start a business or build your dream house
+                        send your children to the best schools or keep your family in good health
+                        by offering you a convenient way to send money back home, or anywhere you desire with very little cost.
+                    </p>
+                    <p>
+                        We are humbled that we have been
+                        instrumental in helping millions of people realize their dreams, for nearly two decades now.
+                    </p>
+
                     <ul>
-                        <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                        <li><i class="bi bi-check-circle"></i> Duis aute irure dolor in reprehenderit in voluptate velit.
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            INSTANT TRANSFERS: With our robust technology, your money is transferred instantly across the globe
                         </li>
-                        <li><i class="bi bi-check-circle"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
-                            nulla pariatur.</li>
+                        <li><i class="bi bi-check-circle text-info"></i>CONVENIENCE: We equip you to send money the way you want - to a Bank Account, to be picked up in Cash,
+                            to a Mobile Wallet or get Cash delivered to your Doorstep.
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            AFFORDABLE: We want to help you save more on your money transfers and that’s why we offer low transfer fees and great exchange rates.
+                        </li>
+                        <li><i class="bi bi-check-circle text-info"></i>
+                            SECURE: Our state-of-the-art technology and robust compliance process ensure that your money moves safely from one place to another.
+                            .</li>
                     </ul>
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                        We at Basmall International are committed to operating with integrity, within the scope of the law, and with security.
+                        Therefore, when you choose our services to transfer money, irrespective of which country you are from or which
+                        currency you are using, you can be assured that your money is safe and will reach your family when they need it the most.
                     </p>
                 </div>
                 <div class="col-lg-6">
@@ -110,27 +114,23 @@
                     <img src="public/assets/img/creanOne_1.jpg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-                    <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
-                    </p>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, fugit voluptate pariatur eum
-                        aspernatur, cum porro sit perspiciatis provident quisquam sequi delectus veritatis tenetur ea
-                        suscipit nemo dolor! Earum, dolores ipsum placeat iure dolor accusantium delectus commodi ipsa
-                        doloremque, at voluptatum quia! Aut est earum ullam cupiditate, consequuntur in atque, temporibus
-                        explicabo ducimus ipsa porro illo quo molestiae blanditiis saepe animi veniam rerum voluptatem
-                        mollitia quas architecto odio neque error necessitatibus! Deserunt eveniet velit molestias
-                        reprehenderit, beatae, quisquam explicabo ut assumenda saepe repudiandae architecto commodi animi
-                        quod quis inventore corrupti quidem consequatur sed. Minus tenetur iusto unde exercitationem laborum
-                        qui.</p>
+                    <h3>Clean office In always a number one thing any professionals must have.</h3>
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                        Our Company also offers a wide range of cleaning services for homes and offices
+                        throughout all of Dar es Salaam and its nearby locations. Our professional cleaners are happy to take on all sorts of jobs,
+                        from a 15-minute quick spot treatment for your home to a thorough top-to-bottom deep cleaning service for your home,
+                        office, or commercial property. With our high standards, reasonable prices, and special offers you get excellent value for your money.
+                        Don’t hesitate to call
+                    </p>
+                    <p>
+                        Whenever you need residential cleaning, our professional Basmall International Cleaners can offer a helping hand.
+                        We know people are often busy with work and children to look after, so why not take a break and leave the mundane chores to us?
+                        Be it mopping, Gardening, dusting, scrubbing, or vacuuming, our professional cleaners are the right people for every housekeeping task.
+                        Whether you need a one-off spring-clean or a regular service, our specialists are happy to help.
+                    </p>
+                    <p>
+                        Usually, we assign a team of at least two cleaners to each job. We try to allocate the same crew to a regular booking to ensure consistent service. Our expert cleaners are carefully selected and screened and then fully trained to give them
+                        a deep understanding of products and procedures and help them provide top-quality services at all times.
                     </p>
                 </div>
             </div>
@@ -151,33 +151,18 @@
                     <img src="public/assets/register.jpg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>We provide Answers to the Questions of many business starters.</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        the next question is How to Register a company. Which one should I choose? Sole Proprietary,
+                        Partnership, Private Limited Company, One Person Company, Limited Liability Partnership, or Public Limited Company.
                     </p>
-                    <ul>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere, asperiores libero saepe
-                            aperiam dolores ullam accusamus atque quis repellat veritatis!</li>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. lorem</li>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat.</li>
-                        <li><i class="bi bi-check-circle text-info"></i> Duis aute irure dolor in reprehenderit in voluptate
-                            velit.
-                        </li>
-                        <li><i class="bi bi-check-circle text-info"></i> Ullamco laboris nisi ut aliquip ex ea commodo
-                            consequat. Duis
-                            aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat
-                            nulla pariatur.</li>
-                    </ul>
+                   <p>
+                       All new businesses coming up would find it helpful to get the details of how to get the company registered as a public/private limited.
+                       Here are the steps for your reference.
+                   </p>
+                    <p>
+                        That's why at Basmall International, with our help we guarantee that registering your process will have no less than eating a piece of cake, with the help of highly experienced members.
+                    </p>
                 </div>
             </div>
 
@@ -197,30 +182,13 @@
                     <img src="public/assets/consultance_1.jpg" class="rounded img-fluid" alt="">
                 </div>
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
-                    <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+                    <h3>Pay Tax The Right Way with The Help Basmall International.</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-                        et dolore
-                        magna aliqua.
+                        For the benefit of our country and our businesses, we are all required to pay tax, and Basmall International as advises we provide guides to our clients on tax-related matters.
                     </p>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi numquam, molestias rerum, pariatur
-                        voluptatum facilis voluptatem non debitis fuga quae odit. Distinctio facere sunt harum autem sint ex
-                        qui facilis voluptatum doloremque, nihil necessitatibus iusto nemo, adipisci laudantium recusandae
-                        reprehenderit veniam. Ad, reprehenderit voluptas. Error cupiditate repellat rem iusto asperiores
-                        obcaecati ipsum, nesciunt veniam placeat quo provident doloremque, in quisquam excepturi saepe
-                        repellendus pariatur velit! Earum, dolorum! Distinctio id eaque omnis saepe placeat mollitia dolore
-                        vel, voluptate quo minima aperiam fugiat fugit odit velit consectetur asperiores porro unde soluta
-                        quam, nihil deleniti nulla necessitatibus possimus officiis. Excepturi ab sed placeat similique
-                        fugit accusantium, incidunt omnis odit culpa perspiciatis quos mollitia aspernatur nihil officiis
-                        obcaecati tenetur. Esse maiores, cumque tempora repellat molestiae iusto ratione suscipit error
-                        doloribus assumenda, saepe repellendus eum rem inventore distinctio sequi laboriosam nam eveniet
-                        quis id sed? Nostrum repudiandae adipisci, soluta repellendus omnis enim. Officia, neque iste!</p>
                     <p>
-                        Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                        voluptate
-                        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                        sunt in
-                        culpa qui officia deserunt mollit anim id est laborum
+                        We work with individuals and organizations to ensure they comply with tax laws and help minimize potential tax liability. Highest Consideration.
+                        We let you do your job with comfort and confidence.
                     </p>
                 </div>
             </div>
@@ -245,8 +213,7 @@
                 <div class="col-lg-6 pt-4 pt-lg-0 content">
                     <h3>Supply of stationary and Consumables</h3>
                     <p class="fst-italic">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt direna
-                        past reda
+                        The level of customer satisfaction with our service in the current year alone
                     </p>
 
                     <div class="skills-content">
