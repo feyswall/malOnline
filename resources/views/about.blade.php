@@ -20,7 +20,7 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <img src="public/assets/Basmall.png" class="img-fluid" alt="">
+            <img src="public/assets/marketing.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
             <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
@@ -85,7 +85,7 @@
         </div>
 
       </div>
-    </section><!-- End Counts Section --> 
+    </section><!-- End Counts Section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
