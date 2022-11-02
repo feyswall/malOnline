@@ -13,7 +13,7 @@
     <div class="container">
       <div class="row">
 
-        <div class="col-lg-3 col-md-6 footer-links">
+        <div class="col-lg-4 col-md-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="{{ route("/") }}">Home</a></li>
@@ -23,7 +23,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-6 footer-links">
+        <div class="col-lg-4 col-md-6 footer-links">
           <h4>Our Services</h4>
           <ul>
             <li><i class="bx bx-chevron-right"></i> <a href="#">Supply of stationary and Consumables</a></li>
@@ -35,7 +35,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-3 col-md-6 footer-contact">
+        <div class="col-lg-4 col-md-6 footer-contact">
           <h4>Contact Us</h4>
           <p>
             Derm Plaza<br>
@@ -47,13 +47,6 @@
 
         </div>
 
-        <div class="col-lg-3 col-md-6 footer-info">
-          <h3>About Basmall International Co.LTD</h3>
-          <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-          <div class="social-links mt-3">
-
-          </div>
-        </div>
 
       </div>
     </div>
@@ -65,6 +58,6 @@
     </div>
     <div class="credits">
 
-      Designed by <a href="https://theforbins.com/  ">TheForbin</a>
+      Designed by <a href="https://g3net.com/  ">G3NET</a>
     </div>
   </div>
