@@ -92,7 +92,7 @@
                     <p>
                         We at Basmall International are committed to operating with integrity, within the scope of the law, and with security.
                         Therefore, when you choose our services to transfer money, irrespective of which country you are from or which
-                        currency you are using, you can be assured that your money is safe and will reach your family when they need it the most.
+                        currency you are using, you can be assured that your money is safe and will reach your destination in time.
                     </p>
                 </div>
             </div>
