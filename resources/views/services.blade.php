@@ -35,16 +35,15 @@
                     </p>
 
                     <p>
-                        That’s where marketing can help you align your sales and marketing strategies and agree on areas of mutual accountability. Our company provides some best people with the best strategies
+                        That’s where marketing can help you align your sales and marketing strategies and agree on areas of mutual accountability. Our company provides best people with the best strategies
                         that can work with your Sales and Marketing teams to make sure you’re identifying your most valuable leads to give you a bespoke
                         lead-nurturing strategy to bring you better Sales Qualified Leads and drive conversion, all while remaining cost-effective.
                     </p>
                     <p>
-                        Through our company analysis and consulting, we design and execute high-impact strategies to create growth in your <company class=""></company>
+                        Through our company analysis and consulting, we design and execute high-impact strategies to create growth in your company or business
                     </p>
                 </div>
             </div>
-
         </div>
     </section><!-- End About Section -->
 
