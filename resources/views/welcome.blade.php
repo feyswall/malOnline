@@ -248,6 +248,47 @@
     </section><!-- End About Section -->
 
 
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+        <div class="container">
+
+            <div class="row no-gutters">
+                <div class="section-title">
+                    <h2>Our Clients</h2>
+                </div>
+                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch text-center">
+                    <div class="count-box">
+                        <span data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class=""></span>
+                        <p><strong class="lead font-bold">Sicim Oil and Gas Company </strong></p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch text-center">
+                    <div class="count-box">
+                        <span data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class=""></span>
+                        <p><strong class="lead">Nextgen Solar</strong> </p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch  text-center">
+                    <div class="count-box">
+                        <span data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class=""></span>
+                        <p><strong class="lead">Heineman</strong> .</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch text-center">
+                    <div class="count-box">
+                        <span data-purecounter-start="0" data-purecounter-end="" data-purecounter-duration="1" class=""></span>
+                        <p><strong class="lead">Tata Consultance Engeers (TCE)</strong> .</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </section><!-- End Counts Section -->
+
     <div class="row justify-content-center mb-sm-2 mb-md-5">
         <div class="section-title">
             <h2>Our Location</h2>
